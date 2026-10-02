@@ -1,0 +1,2593 @@
+{
+  "purpose": "optional controlled synthetic oracle evaluation only; no oracle binaries or dependencies are redistributed",
+  "resolved_packages": [
+    {
+      "id": "AlphaFS.New",
+      "version": "2.3.0",
+      "sha512": "c5lct9JId/1YZnY64eXaOTLEYVylF7MpkguY9Fy/cOe29qV0TAQCTI0gkFXiyx0/6jxe+lPQRlHMgvwUIjOOHQ==",
+      "nupkg_bytes": 1309159,
+      "nupkg_sha256": "1d41b1dfe16a835261d123e1459cfdc45eff46e0c2aeb40dde4d9e83160d0a5c",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "https://github.com/alphaleonis/AlphaFS/blob/master/LICENSE.md",
+        "projectUrl": "https://alphafs.alphaleonis.com/",
+        "copyright": "Copyright (C) 2008-2018 Peter Palotas, Jeffrey Jangli, Alexandr Normuradov",
+        "title": "AlphaFS",
+        "authors": "Alphaleonis,Yomodo",
+        "license_attributes": {},
+        "repository": {
+          "url": "https://github.com/alphaleonis/AlphaFS"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "c0f122be01349a583a0ad5e3551bc57a23f1b952853756927b49914f8d1c4a51"
+    },
+    {
+      "id": "Costura.Fody",
+      "version": "6.0.0",
+      "sha512": "3Uriu9GJABMivG0wXMJs6NQ7FNE3pylir1gZEBAWDvpii3cnrmxXnOG44MMDuIVOIk/Xhef7WZFsaCNV+py9qA==",
+      "nupkg_bytes": 243452,
+      "nupkg_sha256": "e7546f21905e9ddb7d282e7d24beb6a0e3b07e71fc2bb8de38892a85fbeba05d",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/Fody/Costura",
+        "title": "Costura.Fody",
+        "authors": "geertvanhorrik,simoncropp",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/Fody/Costura"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "2bd7b137400ca8151215030ba8c26222904797c9092baa3882bd889ccceae641"
+    },
+    {
+      "id": "CsvHelper",
+      "version": "33.1.0",
+      "sha512": "kqfTOZGrn7NarNeXgjh86JcpTHUoeQDMB8t9NVa/ZtlSYiV1rxfRnQ49WaJsob4AiGrbK0XDzpyKkBwai4F8eg==",
+      "nupkg_bytes": 903000,
+      "nupkg_sha256": "a447d7e28eb7c6ea48eeebb07baa9ad393a77b4a49ed46f3cc9a8b8784a18eef",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "license": "MS-PL OR Apache-2.0",
+        "licenseUrl": "https://licenses.nuget.org/MS-PL%20OR%20Apache-2.0",
+        "projectUrl": "https://joshclose.github.io/CsvHelper/",
+        "copyright": "Copyright \u00a9 2009-2024 Josh Close",
+        "authors": "Josh Close",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/JoshClose/CsvHelper",
+          "branch": "refs/heads/master",
+          "commit": "5dad8b8b1d8b074f8353cfd482e939db788a8927"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "10f383d1d4f3c80905441228aa3f8cf11eeca63b296d39bb3825b4336f7bfb34"
+    },
+    {
+      "id": "DeviceIOControlLib",
+      "version": "0.1.6",
+      "sha512": "AyXXSUUOlhjl66S0vH5yGx064VLKhg37NM3xsIlaNamjw9PZFLc7NPk2t30MUpL7+nBgL1SrgZuflQJFDn76nQ==",
+      "nupkg_bytes": 112461,
+      "nupkg_sha256": "217a7dd1e842fa180e60b86b5218b610a3c7fdab5377c2239bb6ee30abbb4c8b",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/lordmike/deviceiocontrollib/blob/master/LICENSE.txt",
+        "projectUrl": "https://github.com/lordmike/deviceiocontrollib",
+        "authors": "LordMike",
+        "owners": "LordMike",
+        "license_attributes": {},
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/lordmike/deviceiocontrollib"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "a60600ff012901bbdbf996f6cef2f9486739875bea512c3315fa1b77eafe6370"
+    },
+    {
+      "id": "ERZHelpers",
+      "version": "2026.5.3",
+      "sha512": "9knaB4V3ppM+2vNcBS/u1qMlleljiDBZDTgLM7WSSHCfrNXByrmCCPFzzJbhs64Wwf3q7+PcwxWOyaRN8UaOlA==",
+      "nupkg_bytes": 35727,
+      "nupkg_sha256": "b77e1b2bd76781540daea208db2a7ca7a9b99951d104205d2f4a4b8e943da865",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "copyright": "Eric Zimmerman",
+        "authors": "ERZHelpers",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/EricZimmerman/RawCopy.git",
+          "branch": "refs/heads/master",
+          "commit": "9059020d41e9aa78bb3141593e506b1bd2172e8d"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "e7972bd475a91ae2096d9b46ae5dce7ee9b6e094e6250cf5fc5c4ee4f4c91e3c"
+    },
+    {
+      "id": "Exceptionless",
+      "version": "6.1.0",
+      "sha512": "94hMBDa1SUW2PGp3tO8n8Y5IOBulF146cCeWfVYA7LyIWG70UpNNXYi0iFvnzsus+ZC7xOdRi29Sgs20gOMY0g==",
+      "nupkg_bytes": 1217848,
+      "nupkg_sha256": "6e40a920632b9a41b17abf81383a299b947e94efe4bfa30d007a338eed0cab52",
+      "metadata": {
+        "license": "LICENSE.txt",
+        "licenseUrl": "https://aka.ms/deprecateLicenseUrl",
+        "projectUrl": "https://github.com/exceptionless/Exceptionless.Net",
+        "copyright": "Copyright (c) 2025 Exceptionless.  All rights reserved.",
+        "authors": "Exceptionless",
+        "license_attributes": {
+          "type": "file"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/exceptionless/Exceptionless.Net",
+          "commit": "310680883096cc4e3c82766419ae370b684e136b"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.txt",
+          "bytes": 559,
+          "sha256": "10dffa4a31cee619d723ba7f2f3942a129dd469cd7504e7407d6558db78e536f",
+          "retained_text": "licenses/oracle-10dffa4a31cee619.txt"
+        }
+      ],
+      "nuspec_sha256": "e8b8963ffcdf7b4fc67cac0b09020b3e52e391159ecd0217bfa6481d8765e0eb"
+    },
+    {
+      "id": "Fody",
+      "version": "6.9.3",
+      "sha512": "1CUGgFdyECDKgi5HaUBhdv6k+VG9Iy4OCforGfHyar3xQXAJypZkzymgKtWj/4SPd6nSG0Qi7NH71qHrDSZLaA==",
+      "nupkg_bytes": 921204,
+      "nupkg_sha256": "24ba26de66cee0d0945c31e853cea5ef6d105e5471e76f9139be70070702e673",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/Fody/Fody",
+        "copyright": "Copyright (c) The Fody Team and contributors",
+        "authors": "The Fody Team",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/Fody/Fody.git",
+          "commit": "c453f5ffd89cf9e375e72ac7a11a200800172ce6"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "7b05b872e2b535455595bf1f6c8ec6a697dc4ab1a1c969370aa57f05f2a1b16f"
+    },
+    {
+      "id": "LTRData.DiscUtils.Core",
+      "version": "1.0.80",
+      "sha512": "kR4g8sFVylDk0ZnPbwuP1LXiXi7/dL/wt+x7qvJMEI4WPLMR5Q6DktfdUpRHBLB3Kh96eVsADCpw7+lGaxNrBA==",
+      "nupkg_bytes": 1195690,
+      "nupkg_sha256": "8c5654ba75e5c779b67e8994000f7b6866c2f51f31cebfab927005d663c1c555",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/LTRData/DiscUtils",
+        "authors": "Kenneth Bell,Quamotion,LordMike,Olof Lagerkvist",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/LTRData/DiscUtils.git",
+          "branch": "refs/heads/LTRData.DiscUtils-initial",
+          "commit": "e1fdf3a42926891b3bce62c62d9d511e10ee8292"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "3f415cdccd57adb6cd9a0cc408cdaadc3630e1b16f785c6f4f72b8e05956a359"
+    },
+    {
+      "id": "LTRData.DiscUtils.Ntfs",
+      "version": "1.0.80",
+      "sha512": "Q26b7aNYstueAJ0FOqcb+144WC/RLXHWNl5Lwdwf9drsY7OM86UZxWMhrjbnNbcTvxQNfIMcfWlqLsuenU1Kdg==",
+      "nupkg_bytes": 943915,
+      "nupkg_sha256": "ec99ccfd7c549b62f9fd21c0f598b14db046aa6b0594db141e3736f2f15d77bc",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/LTRData/DiscUtils",
+        "authors": "Kenneth Bell,LordMike,Olof Lagerkvist",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/LTRData/DiscUtils.git",
+          "branch": "refs/heads/LTRData.DiscUtils-initial",
+          "commit": "e1fdf3a42926891b3bce62c62d9d511e10ee8292"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "34155a7b777d9e6e6c4d568839020f4e99df6bbff4b70a7eeaec84f43a3e9585"
+    },
+    {
+      "id": "LTRData.DiscUtils.Streams",
+      "version": "1.0.80",
+      "sha512": "Oi13jeefYJcjUx4S40EJMteUjlFRNMetf8l3h+Jfz15fgOjTEjNH3K01hfOIiNV040uNb6QWdqGcLQhunM3Zuw==",
+      "nupkg_bytes": 550127,
+      "nupkg_sha256": "8599c8e6988f16436d9795150ff9e81c5fc895311ce8cf16146013a80dd4cc8e",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/LTRData/DiscUtils",
+        "authors": "Kenneth Bell,LordMike,Bianco Veigel,Olof Lagerkvist",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/LTRData/DiscUtils.git",
+          "branch": "refs/heads/LTRData.DiscUtils-initial",
+          "commit": "e1fdf3a42926891b3bce62c62d9d511e10ee8292"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "dfd78329f9f3e7657a884a763da508c3a1fe063898062695e4dbe43a1f33442b"
+    },
+    {
+      "id": "LTRData.Extensions",
+      "version": "1.0.22",
+      "sha512": "+cdzposmnUEt7MUMGZD4hhJeOcVI5fIdyM6xI8ZcCgLNMem5J0IO01C6GVn4JzkHpj7Oq5RGlzjZjrYfBqleYg==",
+      "nupkg_bytes": 429379,
+      "nupkg_sha256": "c08def772799f6d794e166963b07cbc5e9bb282715551916388760f9805d5c11",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/LTRData/Library",
+        "copyright": "2011 - 2025, Olof Lagerkvist, LTR Data",
+        "authors": "Olof Lagerkvist",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/LTRData/Library.git",
+          "branch": "refs/heads/master",
+          "commit": "4f2e240e33fedd58c0d02309bc4b3c8bf3e4ffe8"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "b4a6193a1b280e0e58fabeaf771baf1b90102759260a5bbdf6374508f8b4db0a"
+    },
+    {
+      "id": "Microsoft.Extensions.Configuration.Abstractions",
+      "version": "6.0.0",
+      "sha512": "qWzV9o+ZRWq+pGm+1dF+R7qTgTYoXvbyowRoBxQJGfqTpqDun2eteerjRQhq5PQ/14S+lqto3Ft4gYaRyl4rdQ==",
+      "nupkg_bytes": 67830,
+      "nupkg_sha256": "12f83e6278f64146ba1b3fb3a85f9b5327c60f41c8e40d9f1e6c591176e7dc70",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/runtime",
+          "commit": "4822e3c3aa77eb82b2fb33c9321f923cf11ddde6"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 46990,
+          "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+        }
+      ],
+      "nuspec_sha256": "c970cd7ed581b7023f64ad3561493f30d3d61e87a7578404e2f540a033d9d9ca"
+    },
+    {
+      "id": "Microsoft.Extensions.Primitives",
+      "version": "6.0.0",
+      "sha512": "9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "nupkg_bytes": 144250,
+      "nupkg_sha256": "020bf2b2cce9435d40893049164bd2cbc267c085938f5e4f7de93b4fb4e151ce",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/runtime",
+          "commit": "4822e3c3aa77eb82b2fb33c9321f923cf11ddde6"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 46990,
+          "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+        }
+      ],
+      "nuspec_sha256": "96c58fc65ee310f9bddff555dd10edd5f39aad599d735f8baf374f20d56578f0"
+    },
+    {
+      "id": "Microsoft.NETCore.Platforms",
+      "version": "2.0.0",
+      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
+      "nupkg_bytes": 19181,
+      "nupkg_sha256": "204bc193ac145d27720a7923ead1da84e26fdbdd2d5554fcb727a661c47462ba",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "Microsoft.NETCore.Platforms",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 11591,
+          "sha256": "0ef4dce1f4e8965f19a3b8b2f984f337d5c35e5aaf7f8a36b95aec66c301963a",
+          "retained_text": "licenses/oracle-0ef4dce1f4e8965f.txt"
+        }
+      ],
+      "nuspec_sha256": "d8b6b7804eac020e05714ec53d68d0e01f5b040a9422a0a3dc5810550ebb599b"
+    },
+    {
+      "id": "Microsoft.NETCore.Targets",
+      "version": "1.1.3",
+      "sha512": "3Wrmi0kJDzClwAC+iBdUBpEKmEle8FQNsCs77fkiOIw/9oYA07bL1EZNX0kQ2OMN3xpwvl0vAtOCYY3ndDNlhQ==",
+      "nupkg_bytes": 31152,
+      "nupkg_sha256": "58bb1fd4db947d15b2afb0bb465f638ae6bd8f18a69d5bf3cba9e4d83d9b5517",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "Microsoft.NETCore.Targets",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "0cc9f075175bd49f2efa789588d75d3b4c1d247eec1b7e9bb2a50882ee6f6bb3"
+    },
+    {
+      "id": "Microsoft.Win32.Primitives",
+      "version": "4.3.0",
+      "sha512": "9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
+      "nupkg_bytes": 63333,
+      "nupkg_sha256": "98134398f5cd4d6e785cb9cf014c0146f90839114ceff8f40f42364b240f0c48",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "Microsoft.Win32.Primitives",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "62ab73ac61fb0afe220ae4a54e9fb1ff825b267f8ea9866171900b5245d8a3ef"
+    },
+    {
+      "id": "Microsoft.Win32.Registry",
+      "version": "4.5.0",
+      "sha512": "+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
+      "nupkg_bytes": 350921,
+      "nupkg_sha256": "58c057b086f40e03c53da164355c58f5bf6f70cc4faad8058228ca60c25f57fd",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "Microsoft.Win32.Registry",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 15835,
+          "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+        }
+      ],
+      "nuspec_sha256": "3b558971271e1696213a62d1a48df8858d9dbbc031bcce277ef3f3f5dfe2633c"
+    },
+    {
+      "id": "Prefetch",
+      "version": "2026.5.2",
+      "sha512": "wMpTbCDU9k+HFghsjzSSGPakApx7izzDMr+xL4fj3eK+OhZVqxoZnUtoLiZJEQJakT1maAdnrClw5j+zppNvcA==",
+      "nupkg_bytes": 39839,
+      "nupkg_sha256": "b24a511f287d89084c0863c1468387401be0c72fed30a5c8badb2fa8a482a418",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/EricZimmerman/Prefetch",
+        "copyright": "Eric Zimmerman",
+        "title": "Prefetch",
+        "authors": "Eric Zimmerman",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/EricZimmerman/Prefetch",
+          "branch": "refs/tags/2026.5.2",
+          "commit": "54a3ac0d6d0006d3836c9bd368dfe32cbcaa131d"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "d175b01ec617b673f04257a6a850d8f3417f3eb978a5d68e91dab71123c5af2d"
+    },
+    {
+      "id": "RawDiskLib",
+      "version": "0.3.0",
+      "sha512": "J0uuw5Q0qqJyOf+pPHKq5KRcoXIx4sexI5qHN3xSZ4IZ2h4ITWhanpjvhX8Dv0avzo+MYb4iW5nobk7gnmPimQ==",
+      "nupkg_bytes": 42431,
+      "nupkg_sha256": "d6e73f04177e7b367112ed666030ca53c8a7ca8fdcf16462785cec064c97a367",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/LordMike/RawDiskLib",
+        "copyright": "Michael Bisbjerg 2026",
+        "authors": "LordMike",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/LordMike/RawDiskLib",
+          "commit": "b0d7a913ab55ec92909137d5c324a6de36fa174e"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "19224fae84e1adf73fb632ebd9976e760f1cc6ef4e5111fe5395a8972d858fa1"
+    },
+    {
+      "id": "Serilog.Sinks.Console",
+      "version": "6.1.1",
+      "sha512": "8jbqgjUyZlfCuSTaJk6lOca465OndqOz3KZP6Cryt/IqZYybyBu7GP0fE/AXBzrrQB3EBmQntBFAvMVz1COvAA==",
+      "nupkg_bytes": 139415,
+      "nupkg_sha256": "09f220e14b38912310027eab536aec01e136da0e8ca45899761a195b24a965e6",
+      "metadata": {
+        "license": "Apache-2.0",
+        "licenseUrl": "https://licenses.nuget.org/Apache-2.0",
+        "projectUrl": "https://github.com/serilog/serilog-sinks-console",
+        "authors": "Serilog Contributors",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/serilog/serilog-sinks-console",
+          "branch": "refs/heads/main",
+          "commit": "b3cb1f042f5636161b831fa8816d70d865a5eec4"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "b3f5b2596a6e183b0a653cec1d53273d32fb341f5dab38554976922fea4dcaf7"
+    },
+    {
+      "id": "Serilog",
+      "version": "4.3.1",
+      "sha512": "savYe7h5yRlkqBVOwP8cIRDOdqKiPmYCU4W87JH38sBmcKD5EBoXvQIw6bNEvZ/pTe1gsiye3VFCzBsoppGkXQ==",
+      "nupkg_bytes": 765765,
+      "nupkg_sha256": "4d8f86690627c837ce1a5d208baef10f250c3ae57f9a3cfc054ebafd4b264ad2",
+      "metadata": {
+        "license": "Apache-2.0",
+        "licenseUrl": "https://licenses.nuget.org/Apache-2.0",
+        "projectUrl": "https://serilog.net/",
+        "copyright": "Copyright \u00a9 Serilog Contributors",
+        "authors": "Serilog Contributors",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/serilog/serilog",
+          "branch": "refs/heads/main",
+          "commit": "5625030e8f8fceca2e3180575aba174751ef7add"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "3ca85254cbbffaf1aca6e303466731dca0b2cb99e92dd4ebb75aefb556ba3fc2"
+    },
+    {
+      "id": "ServiceStack.Text",
+      "version": "10.0.6",
+      "sha512": "TzHW0+BC681M/ShESA9uPmMjkgGIXHYEprpvRXsOv647+7MAcpKC3vdmmtuGWTkqb4SuqnXIckg/4+kEWEUYQQ==",
+      "nupkg_bytes": 1823700,
+      "nupkg_sha256": "8c82f33ce5675733517770f758e2403be48a0010009cbd9e9afec541250239ae",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "https://servicestack.net/terms",
+        "projectUrl": "https://github.com/ServiceStack/ServiceStack",
+        "copyright": "\u00a9 2008-2022 ServiceStack, Inc",
+        "title": ".NET's fastest JSON Serializer by ServiceStack",
+        "authors": "ServiceStack",
+        "license_attributes": {},
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/ServiceStack/ServiceStack.git",
+          "branch": "refs/heads/main",
+          "commit": "31209dfc57f1911bc4057049119502f015401912"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "d98a5a02abdeb736e586882b1d7fab666817dbb46479a072871bb439911b3f34"
+    },
+    {
+      "id": "System.Collections.Concurrent",
+      "version": "4.3.0",
+      "sha512": "ztl69Xp0Y/UXCL+3v3tEU+lIy+bvjKNUmopn1wep/a291pVPK7dxBd6T7WnlQqRog+d1a/hSsgRsmFnIBKTPLQ==",
+      "nupkg_bytes": 502676,
+      "nupkg_sha256": "28c6390df2670de22c6b5dc3a6abf237c36445e644300167966360955a052172",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Collections.Concurrent",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "bbc4ef15f58b7f889b20647ee7cadc05650721164d10e35c381061380893e1e8"
+    },
+    {
+      "id": "System.Collections.Immutable",
+      "version": "6.0.0",
+      "sha512": "l4zZJ1WU2hqpQQHXz1rvC3etVZN+2DLmQMO79FhOTZHMn8tDRr+WU287sbomD0BETlmKDn0ygUgVy9k5xkkJdA==",
+      "nupkg_bytes": 393026,
+      "nupkg_sha256": "0ca11ba45a9708811faa9f69ddecea69d9f96ff4b5613937dbf1102beb4449cb",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/runtime",
+          "commit": "4822e3c3aa77eb82b2fb33c9321f923cf11ddde6"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 46990,
+          "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+        }
+      ],
+      "nuspec_sha256": "821496ba75b02b38551571d1ae0ae2e26c36ce7d38a98276b387231d1709b3ca"
+    },
+    {
+      "id": "System.Collections",
+      "version": "4.3.0",
+      "sha512": "3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
+      "nupkg_bytes": 810001,
+      "nupkg_sha256": "69f63b554b43eb0ff9998aab71ef2442bbc321f4b61970c834387bdc88f124a7",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Collections",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "408d80324029f2c5fc57a4c0cb8e1de11f56f24789fcddd511be5fca638f9e62"
+    },
+    {
+      "id": "System.CommandLine",
+      "version": "2.0.7",
+      "sha512": "ih4yNLLF2Ebz85xJJBaPeddLa4d1AekYId7Y1g8oSsEaBHHd/CtyeBJ+tDvQadqeXz7i591K5ry/td+4aaHnQA==",
+      "nupkg_bytes": 551643,
+      "nupkg_sha256": "0869b8e8793b79916f232484ca713e0341ece445c3b3614d28a864feb53bee33",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/dotnet/command-line-api",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/dotnet",
+          "commit": "b16286c2284fecf303dbc12a0bb152476d662e44"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "ccdb0763b699d1c76149f9a49d35c889fd8d743e2b2961d256eb329532f85dc1"
+    },
+    {
+      "id": "System.Diagnostics.Debug",
+      "version": "4.3.0",
+      "sha512": "ZUhUOdqmaG5Jk3Xdb8xi5kIyQYAA4PnTNlHx1mu9ZY3qv4ELIdKbnL/akbGaKi2RnNUWaZsAs31rvzFdewTj2g==",
+      "nupkg_bytes": 149774,
+      "nupkg_sha256": "7e403bf528cf6d27a211cadb6d4b1bef4bbd07bc2a6ec74cf6cd4b9e82a3d203",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Diagnostics.Debug",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "da4c7cd7f70293db2a0c1584a3f772cc8af7e3e6e4382d59d233ada30bba4db9"
+    },
+    {
+      "id": "System.Diagnostics.DiagnosticSource",
+      "version": "4.3.0",
+      "sha512": "tD6kosZnTAGdrEa0tZSuFyunMbt/5KYDnHdndJYGqZoNy00XVXyACd5d6KnE1YgYv3ne2CjtAfNXo/fwEhnKUA==",
+      "nupkg_bytes": 120125,
+      "nupkg_sha256": "3852516f4ca07a9d19df20c12f002033f4e47ece09083b6c361c031fd71dd57c",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Diagnostics.DiagnosticSource",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "9ecaefa5cfcef81bd960abb5590f0efdeb55329186a90386fb784d754286ee17"
+    },
+    {
+      "id": "System.Diagnostics.Tracing",
+      "version": "4.3.0",
+      "sha512": "rswfv0f/Cqkh78rA5S8eN8Neocz234+emGCtTF3lxPY96F+mmmUen6tbn0glN6PMvlKQb9bPAY5e9u7fgPTkKw==",
+      "nupkg_bytes": 581864,
+      "nupkg_sha256": "8421136691c719584f62f6f80b47e1e33b3ef33bf818fa22c5a8242d98e96bd4",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Diagnostics.Tracing",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "0327d7943e11ef98c72b7099655e56e429a7e88a14d7ad3a33ad32197fe2661c"
+    },
+    {
+      "id": "System.Globalization.Calendars",
+      "version": "4.3.0",
+      "sha512": "GUlBtdOWT4LTV3I+9/PJW+56AnnChTaOqqTLFtdmype/L500M2LIyXgmtd9X2P2VOkmJd5c67H5SaC2QcL1bFA==",
+      "nupkg_bytes": 177689,
+      "nupkg_sha256": "b8d383d043951609d2d9f30abcc884b48f5a3b0d34f8f7f2fc7faab9c01094f7",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Globalization.Calendars",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "ca4a1ceef08ca8d49f3e6b01ee554f6f8655da0f3805aa0fa970212723364c36"
+    },
+    {
+      "id": "System.Globalization.Extensions",
+      "version": "4.3.0",
+      "sha512": "FhKmdR6MPG+pxow6wGtNAWdZh7noIOpdD5TwQ3CprzgIE1bBBoim0vbR1+AWsWjQmU7zXHgQo4TWSP6lCeiWcQ==",
+      "nupkg_bytes": 142949,
+      "nupkg_sha256": "9a6256036ed3d06455b853fdfec8fee13ad1e06256af33489363c3adbafb4509",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Globalization.Extensions",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "943c023468c074b99aafa578ef6b1a01436906574c2a0fe0482bf09a75d0a02a"
+    },
+    {
+      "id": "System.Globalization",
+      "version": "4.3.0",
+      "sha512": "kYdVd2f2PAdFGblzFswE4hkNANJBKRmsfa2X5LG2AcWE1c7/4t0pYae1L8vfZ5xvE2nK/R9JprtToA61OSHWIg==",
+      "nupkg_bytes": 589136,
+      "nupkg_sha256": "71a2f4a51985484b1aa1e65e58de414d0b46ac0b5a40fc058bc60e64f646e6b2",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Globalization",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "1ee9ef198641c113fbd6957dc69329c51832c5c4eecf122a637ec9603f7c8f6d"
+    },
+    {
+      "id": "System.IO.FileSystem.AccessControl",
+      "version": "4.5.0",
+      "sha512": "TYe6xstoqT5MlTly0OtPU6u9zWuNScLVMEx6sTCjjx+Hqdp0wCXoG6fnzMpTPMQACXQzi9pd2N5Tloow+5jQdQ==",
+      "nupkg_bytes": 274030,
+      "nupkg_sha256": "724e3860143433ed889b9770d158c18050f5b345ee639e1cba3ae87638d204bf",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.IO.FileSystem.AccessControl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 15835,
+          "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+        }
+      ],
+      "nuspec_sha256": "6b8f06eb470a9bc7d16ea76005299cd97acd2aaa1a059bb5479c47696753a82b"
+    },
+    {
+      "id": "System.IO.FileSystem.Primitives",
+      "version": "4.3.0",
+      "sha512": "6QOb2XFLch7bEc4lIcJH49nJN2HV+OC3fHDgsLVsBVBk3Y4hFAnOBGzJ2lUu7CyDDFo9IBWkSsnbkT6IBwwiMw==",
+      "nupkg_bytes": 94996,
+      "nupkg_sha256": "2cc9df83c5706afb3d70c9eaf67347f085ad02d49f934fc5cb8b3846df6bd648",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.IO.FileSystem.Primitives",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "246beaa09f0a7fa193305f986ca13626f55c45468fc04f7aab2dba765da3d9f3"
+    },
+    {
+      "id": "System.IO.FileSystem",
+      "version": "4.3.0",
+      "sha512": "3wEMARTnuio+ulnvi+hkRNROYwa1kylvYahhcLk4HSoVdl+xxTFVeVlYOfLwrDPImGls0mDqbMhrza8qnWPTdA==",
+      "nupkg_bytes": 274316,
+      "nupkg_sha256": "bcd2189ef95acae563d167d17d82a90eb843a6d961a75a4df026269557764d7c",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.IO.FileSystem",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "c9c8c39f978e441499568a45e9226d7c76e5f8d5c9bde2d8957c0ff6aa916d26"
+    },
+    {
+      "id": "System.IO",
+      "version": "4.3.0",
+      "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+      "nupkg_bytes": 703652,
+      "nupkg_sha256": "aeeca74077a414fe703eb0e257284d891217799fc8f4da632b9a54f873c38916",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.IO",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "611c672da36117faef06558d240ef35ea83b2057065154492c11161bb5d29386"
+    },
+    {
+      "id": "System.Linq",
+      "version": "4.3.0",
+      "sha512": "5DbqIUpsDp0dFftytzuMmc0oeMdQwjcP/EWxsksIz/w1TcFRkZ3yKKz0PqiYFMmEwPSWw+qNVqD7PJ889JzHbw==",
+      "nupkg_bytes": 512550,
+      "nupkg_sha256": "479ba248bde5e9add7ad74922fa8f3faafcf732550cc4001ca2b9764d4aa0ff0",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Linq",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "86a497a962ee197ca3a2eb630503c8c63e740259ef624d84b29eea2f492306d5"
+    },
+    {
+      "id": "System.Net.Http",
+      "version": "4.3.4",
+      "sha512": "aOa2d51SEbmM+H+Csw7yJOuNZoHkrP2XnAurye5HWYgGVVU54YZDvsLUYRv6h18X3sPnjNCANmN7ZhIPiqMcjA==",
+      "nupkg_bytes": 620644,
+      "nupkg_sha256": "14ca14d0aee794f2f1a038eed0d2f6d568e581af46a67028423b05845618b74d",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Net.Http",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "2936b0f9caa1615ca8f22f69580499ded6d53c8e68c3f19fa50f6ef0892e54cf"
+    },
+    {
+      "id": "System.Net.Primitives",
+      "version": "4.3.0",
+      "sha512": "qOu+hDwFwoZPbzPvwut2qATe3ygjeQBDQj91xlsaqGFQUI5i4ZnZb8yyQuLGpDGivEPIt8EJkd1BVzVoP31FXA==",
+      "nupkg_bytes": 769347,
+      "nupkg_sha256": "318ed9eaf3ad14c6c429a2d6f6739265e023716a700ad74eeff5b59a41990731",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Net.Primitives",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "7dfac6213ac7b9b131a7008a1419c5c7e57bec23751960410c5666ccff983ab8"
+    },
+    {
+      "id": "System.Private.Uri",
+      "version": "4.3.2",
+      "sha512": "o1+7RJnu3Ik3PazR7Z7tJhjPdE000Eq2KGLLWhqJJKXj04wrS8lwb1OFtDF9jzXXADhUuZNJZlPc98uwwqmpFA==",
+      "nupkg_bytes": 26095,
+      "nupkg_sha256": "8c1dbe5b7b5343a0fd5c7cb9b0414c01acc87b57eeda3ac43543b471be3c3a05",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Private.Uri",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "09ee0bdc32e5dfb43e0b3f03904a09d4d391fbc185c0a3d8be21d33a0c43c797"
+    },
+    {
+      "id": "System.Reflection.Emit.Lightweight",
+      "version": "4.7.0",
+      "sha512": "a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "nupkg_bytes": 155693,
+      "nupkg_sha256": "5745b3fd45283481dd4c64bd7b54d1f3dbb9f33263a3fc0f516c3a55a5727255",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/dotnet/corefx",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Reflection.Emit.Lightweight",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 18886,
+          "sha256": "388c07f579998286e5df706a2e68bf6e01100187ccb0ff0310e26c3383f7b2b2",
+          "retained_text": "licenses/oracle-388c07f579998286.txt"
+        }
+      ],
+      "nuspec_sha256": "a4a7734c7045b36c3274fdb7270606ab210fec563269cc0bc5d95419970c98c1"
+    },
+    {
+      "id": "System.Reflection.Metadata",
+      "version": "6.0.1",
+      "sha512": "III/lNMSn0ZRBuM9m5Cgbiho5j81u0FAEagFX5ta2DKbljZ3T0IpD8j+BIiHQPeKqJppWS9bGEp6JnKnWKze0g==",
+      "nupkg_bytes": 767969,
+      "nupkg_sha256": "89ddbbb14e2a20422980a7a73b96f8207b7a2f55ee36c55ee1347d4ca68b583a",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/runtime",
+          "commit": "c24d9a9c91c5d04b7b4de71f1a9f33ac35e09663"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 46990,
+          "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+        }
+      ],
+      "nuspec_sha256": "b0d8cff2fc9303c1ec0dbc53f2671a77254e3565564000749f77ed2e06ad891b"
+    },
+    {
+      "id": "System.Reflection.Primitives",
+      "version": "4.3.0",
+      "sha512": "5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+      "nupkg_bytes": 281679,
+      "nupkg_sha256": "e68830581e2f9504e5de38e4d718e7886da8cdb1488d94cbf6e834bac650b813",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Reflection.Primitives",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "bc08fd05ca10261ea778fa77b76bc5957e4027b6dc00691af5edcb55aa4b4a59"
+    },
+    {
+      "id": "System.Reflection",
+      "version": "4.3.0",
+      "sha512": "KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+      "nupkg_bytes": 700821,
+      "nupkg_sha256": "35049946964bbed3d60e5be6308746c5c56ec949f0f76654468d215ec12c8576",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Reflection",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "a926c4fbe86e17f374c0ccfece7d11e3e3d106878a1ef5b96ecb7d3c6afb1051"
+    },
+    {
+      "id": "System.Resources.ResourceManager",
+      "version": "4.3.0",
+      "sha512": "/zrcPkkWdZmI4F92gL/TPumP98AVDu/Wxr3CSJGQQ+XN6wbRZcyfSKVoPo17ilb3iOr0cCRqJInGwNMolqhS8A==",
+      "nupkg_bytes": 85908,
+      "nupkg_sha256": "89d88e0fddf16dbadbc304a70f898e440f51622fc3fd4e3c79152c9ff5a7586a",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Resources.ResourceManager",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "2b427956224e09bedd9eb4169a04c6f0a604dfc98e601fc6d46f921837a4093f"
+    },
+    {
+      "id": "System.Runtime.CompilerServices.Unsafe",
+      "version": "6.0.0",
+      "sha512": "/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "nupkg_bytes": 84343,
+      "nupkg_sha256": "6c41b53e70e9eee298cff3a02ce5acdd15b04125589be0273f0566026720a762",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "authors": "Microsoft",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/dotnet/runtime",
+          "commit": "4822e3c3aa77eb82b2fb33c9321f923cf11ddde6"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 46990,
+          "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+        }
+      ],
+      "nuspec_sha256": "edaccfd50eebadf418188db5a19cb7b24c887fbbc638f2e4d402ff94bbcc14dc"
+    },
+    {
+      "id": "System.Runtime.Extensions",
+      "version": "4.3.0",
+      "sha512": "guW0uK0fn5fcJJ1tJVXYd7/1h5F+pea1r7FLSOz/f8vPEqbR2ZAknuRDvTQ8PzAilDveOxNjSfr0CHfIQfFk8g==",
+      "nupkg_bytes": 1060357,
+      "nupkg_sha256": "c0b0c79a8cebf38bf55b6cd8096631c63d0547424360749545a46e0e6d1b77fa",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Runtime.Extensions",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "68659d62a0368110b3a24adda0db7f801b594e9d27099692b3502b6058b38077"
+    },
+    {
+      "id": "System.Runtime.Handles",
+      "version": "4.3.0",
+      "sha512": "OKiSUN7DmTWeYb3l51A7EYaeNMnvxwE249YtZz7yooT4gOZhmTjIn48KgSsw2k2lYdLgTKNJw/ZIfSElwDRVgg==",
+      "nupkg_bytes": 54854,
+      "nupkg_sha256": "289e5a5e81a9079e98ebe89ea4191da71fc07da243022b71e2fae42ea47b826b",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Runtime.Handles",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "fcc29585c4244ffcb525d1757e6c7b5b474108966a7f0c31a7f16fff1e3c8db9"
+    },
+    {
+      "id": "System.Runtime.InteropServices",
+      "version": "4.3.0",
+      "sha512": "uv1ynXqiMK8mp1GM3jDqPCFN66eJ5w5XNomaK2XD+TuCroNTLFGeZ+WCmBMcBDyTFKou3P6cR6J/QsaqDp7fGQ==",
+      "nupkg_bytes": 2597020,
+      "nupkg_sha256": "f2c0c7f965097c247eedee277e97ed8fffa5b2d122662c56501b9e476ce61e02",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Runtime.InteropServices",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "9857c66a8f98b0c39da937824f5c4e174c8ba62ebec45eade6d4a35af4b266b1"
+    },
+    {
+      "id": "System.Runtime.Numerics",
+      "version": "4.3.0",
+      "sha512": "yMH+MfdzHjy17l2KESnPiF2dwq7T+xLnSJar7slyimAkUh/gTrS9/UQOtv7xarskJ2/XDSNvfLGOBQPjL7PaHQ==",
+      "nupkg_bytes": 283763,
+      "nupkg_sha256": "3f98c70a031b80531888e36fce668a15e3aa7002033eefd4f1b395acd3d82aa7",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Runtime.Numerics",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "c0e75cc55cdcf78bfd5e95eaaa6803ef2390bac6716bdb3e12ab854bce5741ab"
+    },
+    {
+      "id": "System.Runtime",
+      "version": "4.3.1",
+      "sha512": "abhfv1dTK6NXOmu4bgHIONxHyEqFjW8HwXPmpY9gmll+ix9UNo4XDcmzJn6oLooftxNssVHdJC1pGT9jkSynQg==",
+      "nupkg_bytes": 7272877,
+      "nupkg_sha256": "47d4faf00cd2d4f249eefe80473f6fa3cf2928bd5d5aa2ce00d838a64423900d",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Runtime",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "5226ada1410ef367a00fd5c49154de71f72a1de78f92f7c4c1298277b3ddde06"
+    },
+    {
+      "id": "System.Security.AccessControl",
+      "version": "4.5.0",
+      "sha512": "vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==",
+      "nupkg_bytes": 551848,
+      "nupkg_sha256": "005b0a3dbfe74e4dbf9aa1ff3d8a5aa08f0f2ec88a2a299a5dffbb31be557cf3",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.AccessControl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 15835,
+          "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+        }
+      ],
+      "nuspec_sha256": "7c489a317104cec67368a372d71167d172899a6655ff59c73766ca6b2451b816"
+    },
+    {
+      "id": "System.Security.Cryptography.Algorithms",
+      "version": "4.3.0",
+      "sha512": "W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
+      "nupkg_bytes": 402204,
+      "nupkg_sha256": "b4026f35295ccd8049dc4776e007b6edae79b6afe7e03ddfb9b35077070a580f",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.Algorithms",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "b9ab233625b888dfe57c9a64cac31fc52cd494636143bec0aad406e96a624eed"
+    },
+    {
+      "id": "System.Security.Cryptography.Cng",
+      "version": "4.3.0",
+      "sha512": "03idZOqFlsKRL4W+LuCpJ6dBYDUWReug6lZjBa3uJWnk5sPCUXckocevTaUA8iT/MFSrY/2HXkOt753xQ/cf8g==",
+      "nupkg_bytes": 290620,
+      "nupkg_sha256": "bb5eefcbac0d86aa24f754ab54b9e8d8cd44ccb1d99ba54c71af39c5b54286cc",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.Cng",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "ca3e616066a4a4c2a0839dcf5de9b1a97072eaa8ef1aa8984d8e976f1a9d5acf"
+    },
+    {
+      "id": "System.Security.Cryptography.Csp",
+      "version": "4.3.0",
+      "sha512": "X4s/FCkEUnRGnwR3aSfVIkldBmtURMhmexALNTwpjklzxWU7yjMk7GHLKOZTNkgnWnE0q7+BCf9N2LVRWxewaA==",
+      "nupkg_bytes": 117553,
+      "nupkg_sha256": "a1e7dd4d4fd9d8f594f6795ab7cba24431aafcf199a123d182430bd75a66bcf4",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.Csp",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "706987fdcdfb1c1619f7917e500aa0c2fe70ce56e930507583d0273340251f67"
+    },
+    {
+      "id": "System.Security.Cryptography.Encoding",
+      "version": "4.3.0",
+      "sha512": "1DEWjZZly9ae9C79vFwqaO5kaOlI5q+3/55ohmq/7dpDyDfc8lYe7YVxJUZ5MF/NtbkRjwFRo14yM4OEo9EmDw==",
+      "nupkg_bytes": 144382,
+      "nupkg_sha256": "62e81ef3d37a33e35c6e572f5cc7b21d9ea46437f006fdcb3cc0e217c1e126cb",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.Encoding",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "8fa211e2c861f4f35335c2fd474da11f499941fa0b763028747c9a16593a445c"
+    },
+    {
+      "id": "System.Security.Cryptography.OpenSsl",
+      "version": "4.3.0",
+      "sha512": "h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
+      "nupkg_bytes": 71949,
+      "nupkg_sha256": "0cbf83dac73626b422078a007148204c5c83f30dda2c48c97e877924f7be3b3e",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "012dd253164ce227f72e14fd784a9d027d838e603e8a0e0ab98e661f20c3b2d8"
+    },
+    {
+      "id": "System.Security.Cryptography.Primitives",
+      "version": "4.3.0",
+      "sha512": "7bDIyVFNL/xKeFHjhobUAQqSpJq9YTOpbEs6mR233Et01STBMXNAc/V+BM6dwYGc95gVh/Zf+iVXWzj3mE8DWg==",
+      "nupkg_bytes": 81382,
+      "nupkg_sha256": "7e7162ec1dd29d58f96be05b8179db8e718dbd6ac2114e87a7fc23b235b3df5f",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.Primitives",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "5fe70ca258ad878cb46768847fca6593f6cf9a2224453ffdd6d10540d3d863a3"
+    },
+    {
+      "id": "System.Security.Cryptography.X509Certificates",
+      "version": "4.3.0",
+      "sha512": "t2Tmu6Y2NtJ2um0RtcuhP7ZdNNxXEgUm2JeoA/0NvlMjAhKCnM1NX07TDl3244mVp3QU6LPEhT3HTtH1uF7IYw==",
+      "nupkg_bytes": 706727,
+      "nupkg_sha256": "306dd5fe8c03876ef718250fb061ab68dc1a56973276ea65dc4b4f5e3e93546d",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Cryptography.X509Certificates",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "b73a66b5be345329f820beff59cc1f6c801e99e61cd548d55f3464b67b008bd1"
+    },
+    {
+      "id": "System.Security.Permissions",
+      "version": "4.5.0",
+      "sha512": "9gdyuARhUR7H+p5CjyUB/zPk7/Xut3wUSP8NJQB6iZr8L3XUXTMdoLeVAg9N4rqF8oIpE7MpdqHdDHQ7XgJe0g==",
+      "nupkg_bytes": 245985,
+      "nupkg_sha256": "15ae9d5fa1b2b1ed40fd10688a7f1c55a1d078f6df06fa7a8e35b15173e15ca4",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Security.Permissions",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 15835,
+          "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+        }
+      ],
+      "nuspec_sha256": "4d1e6f0e8878c6ef013656373d5e08a3e1a9cf9bb3a6e5f2ae44e9539f2a8187"
+    },
+    {
+      "id": "System.Security.Principal.Windows",
+      "version": "5.0.0",
+      "sha512": "t0MGLukB5WAVU9bO3MGzvlGnyJPgUlcwerXn1kzBRjwLKixT96XV0Uza41W49gVd8zEMFu9vQEFlv0IOrytICA==",
+      "nupkg_bytes": 535022,
+      "nupkg_sha256": "081390c25f6f78592b28ada853c24514488a221fe9f9a24efaaf5373643ff3d6",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/dotnet/runtime",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Security.Principal.Windows",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "git://github.com/dotnet/runtime",
+          "commit": "cf258a14b70ad9069470a108f13765e0e5988f51"
+        }
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 44279,
+          "sha256": "78e22d4d24a710d2a09426c09060f3448204778ed506b1da55447a6089b54fae",
+          "retained_text": "licenses/oracle-78e22d4d24a710d2.txt"
+        }
+      ],
+      "nuspec_sha256": "ed55220555995a78dd6d708cf9bac9a86f6d93589cd427ef501c87ddbcbf5e83"
+    },
+    {
+      "id": "System.Text.Encoding",
+      "version": "4.3.0",
+      "sha512": "BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+      "nupkg_bytes": 327281,
+      "nupkg_sha256": "19cb475462d901afebaa404d86c0469ec89674acafe950ee6d8a4692e3a404b8",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Text.Encoding",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "bcfe35950f96e212495abd669126c8d26bbbdaeec099551a6bdebe8e2e687699"
+    },
+    {
+      "id": "System.Text.RegularExpressions",
+      "version": "4.3.1",
+      "sha512": "N0kNRrWe4+nXOWlpLT4LAY5brb8caNFlUuIRpraCVMDLYutKkol1aV079rQjLuSxKMJT2SpBQsYX9xbcTMmzwg==",
+      "nupkg_bytes": 539599,
+      "nupkg_sha256": "0f1b046749e73e8cf20b55b5eb8cab3145f09c07474a14bd127ec8983fc624c3",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Text.RegularExpressions",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "5f1763e8cc14f1b13c48c4b3cd85ba023c97eb6c9d72fbe2dbd6570e4fbdc6c4"
+    },
+    {
+      "id": "System.Threading.Tasks.Extensions",
+      "version": "4.5.4",
+      "sha512": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "nupkg_bytes": 89582,
+      "nupkg_sha256": "a304a963cc0796c5179f9c6b7d8022bbce3b2fa7c029eb6196f631f7b462d678",
+      "metadata": {
+        "requireLicenseAcceptance": "false",
+        "licenseUrl": "https://github.com/dotnet/corefx/blob/master/LICENSE.TXT",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+        "title": "System.Threading.Tasks.Extensions",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "LICENSE.TXT",
+          "bytes": 1139,
+          "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+        },
+        {
+          "member": "THIRD-PARTY-NOTICES.TXT",
+          "bytes": 15835,
+          "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+        }
+      ],
+      "nuspec_sha256": "942bd07aa8206c8a2b4923dfe013fd617b28d89130eebabc802d86491bf2fc6f"
+    },
+    {
+      "id": "System.Threading.Tasks",
+      "version": "4.3.0",
+      "sha512": "LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+      "nupkg_bytes": 840017,
+      "nupkg_sha256": "679ad77c9d445e9dc6df620a646899ea4a0c8d1bb49fc0b5346af0a5d21e9f8c",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Threading.Tasks",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "f0cd690ca297a98acfd458957802d6769c917188fe25f14d34a2670f18e6e5af"
+    },
+    {
+      "id": "System.Threading",
+      "version": "4.3.0",
+      "sha512": "VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
+      "nupkg_bytes": 708088,
+      "nupkg_sha256": "643437751e29cd5c266aa060e2169c65a55e9d0ff7c8017fb95ec15d95e38967",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "System.Threading",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "8ebf69b683a4d2334fcdd914ed39506118b8a6a8812d06097c693dee07c45e63"
+    },
+    {
+      "id": "WmiLight",
+      "version": "7.2.0",
+      "sha512": "bsy8DhXxdZeWtC9RazLTA2tQRrumReL86gm0ouYPJfS9dZgpmvPyhi/1VqxoouzzIuiVa6hxANG4OFq28eCG4g==",
+      "nupkg_bytes": 3277857,
+      "nupkg_sha256": "05128be972fc295f1716ba595fb3b86d57bbe1d379a9a39de82c7304c40a4fc9",
+      "metadata": {
+        "license": "MIT",
+        "licenseUrl": "https://licenses.nuget.org/MIT",
+        "projectUrl": "https://github.com/MartinKuschnik/WmiLight",
+        "copyright": "Copyright 2026 Martin Kuschnik",
+        "authors": "Martin Kuschnik",
+        "license_attributes": {
+          "type": "expression"
+        },
+        "repository": {
+          "type": "git",
+          "url": "https://github.com/MartinKuschnik/WmiLight",
+          "commit": "7011947d8a323d2640658d5fa85e60c70b7223c4"
+        }
+      },
+      "license_files": [],
+      "nuspec_sha256": "8f6372d171105f76fc8fd89cb2eb7d1bd80fd07f0ed75a6c3aada5739705babb"
+    },
+    {
+      "id": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "7VSGO0URRKoMEAq0Sc9cRz8mb6zbyx/BZDEWhgPdzzpmFhkam3fJ1DAGWFXBI4nGlma+uPKpfuMQP5LXRnOH5g==",
+      "nupkg_bytes": 44424,
+      "nupkg_sha256": "11b9cea8f3ab02023d78d85e5cb47ef959d8e291f332c10ac357453c9fc59767",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "b785ee34d6e6f29fcf03e01f7639e0c2d8b9abc40de72ad8af2400ad028e8acf"
+    },
+    {
+      "id": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "0oAaTAm6e2oVH+/Zttt0cuhGaePQYKII1dY8iaqP7CvOpVKgLybKRFvQjXR2LtxXOXTVPNv14j0ot8uV+HrUmw==",
+      "nupkg_bytes": 42852,
+      "nupkg_sha256": "995834d9336f25cd41b87534deaddf1f733a70c82429a40f071ada48797f06d8",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "6857262d5dc864fcee6510fb87eef70c3ff363037e7c056ae46cdba17e498783"
+    },
+    {
+      "id": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "G24ibsCNi5Kbz0oXWynBoRgtGvsw5ZSVEWjv13/KiCAM8C6wz9zzcCniMeQFIkJ2tasjo2kXlvlBZhplL51kGg==",
+      "nupkg_bytes": 42843,
+      "nupkg_sha256": "83d5228a4ae5f8ce348587b424c9461defe5ad1d3e9cdd39605eb8c332e60410",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "7bf24af743305182fc061a561a93b24205d69f9b77b4f10696ef4a10523ebbbb"
+    },
+    {
+      "id": "runtime.native.System.Net.Http",
+      "version": "4.3.0",
+      "sha512": "ZVuZJqnnegJhd2k/PtAbbIcZ3aZeITq3sj06oKfMBSfphW3HDmk/t4ObvbOk/JA/swGR0LNqMksAh/f7gpTROg==",
+      "nupkg_bytes": 16894,
+      "nupkg_sha256": "739e7a3f285e470a588707818d27c8c04c991e701407c8d68a8c8a11ca7fd9d8",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.native.System.Net.Http",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "ffb15ca76ff235fb39f9e14e213f15ba164a2595f3b16d5a5e69585b6dcc6dc4"
+    },
+    {
+      "id": "runtime.native.System.Security.Cryptography.Apple",
+      "version": "4.3.0",
+      "sha512": "DloMk88juo0OuOWr56QG7MNchmafTLYWvABy36izkrLI5VledI0rq28KGs1i9wbpeT9NPQrx/wTf8U2vazqQ3Q==",
+      "nupkg_bytes": 16967,
+      "nupkg_sha256": "d88841bf48baa5370ecabf05148c9f3c469a087526259f036302d4c09fb9c1ac",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.native.System.Security.Cryptography.Apple",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "7ce4a4ffa88fc987524fa8a73a04d6b20c497297458cd87bcccfe5e0b2e435b2"
+    },
+    {
+      "id": "runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "QR1OwtwehHxSeQvZKXe+iSd+d3XZNkEcuWMFYa2i0aG1l+lR739HPicKMlTbJst3spmeekDVBUS7SeS26s4U/g==",
+      "nupkg_bytes": 17049,
+      "nupkg_sha256": "c6a17a2db6eda73342f67d546b5e8f9d88171d4d0bbdb94444e4df2b8bc8c57f",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "dfb99b50990bbc2e253e0e49c7db1e268e9cb19a1f7d6f2c806f521807485c26"
+    },
+    {
+      "id": "runtime.native.System",
+      "version": "4.3.0",
+      "sha512": "c/qWt2LieNZIj1jGnVNsE2Kl23Ya2aSTBuXMD6V7k9KWr6l16Tqdwq+hJScEpWER9753NWC8h96PaVNY5Ld7Jw==",
+      "nupkg_bytes": 16854,
+      "nupkg_sha256": "64165aa1d9e3bcb5c04d6a575da90581ccba3fe82386c8455e6825acbe710f96",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.native.System",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9451,
+          "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1617,
+          "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+        }
+      ],
+      "nuspec_sha256": "516e68cef616a3208bfe1203a7a7eaef386cdeed487302d26eb8385e9a62f297"
+    },
+    {
+      "id": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "I+GNKGg2xCHueRd1m9PzeEW7WLbNNLznmTuEi8/vZX71HudUbx1UTwlGkiwMri7JLl8hGaIAWnA/GONhu+LOyQ==",
+      "nupkg_bytes": 44199,
+      "nupkg_sha256": "68906ee85adc83ac1e6efcd570a36850fd5be3ad8e02a45e1768224d2c81cc24",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "b648b1ff65d3d514b0670f5f93b0c770254fde03f57035546ef35746b2db3918"
+    },
+    {
+      "id": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "1Z3TAq1ytS1IBRtPXJvEUZdVsfWfeNEhBkbiOCGEl9wwAfsjP2lz3ZFDx5tq8p60/EqbS0HItG5piHuB71RjoA==",
+      "nupkg_bytes": 44143,
+      "nupkg_sha256": "329b7b28dd8aab9d5060e1157ac123856702193a96724b8f7fc1e5435d74a8b6",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "b4fdff82ee7c73421f50b9e4296ff414b687bc9ec9bd923900be93b2b97fa20f"
+    },
+    {
+      "id": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple",
+      "version": "4.3.0",
+      "sha512": "kVXCuMTrTlxq4XOOMAysuNwsXWpYeboGddNGpIgNSZmv1b6r/s/DPk0fYMB7Q5Qo4bY68o48jt4T4y5BVecbCQ==",
+      "nupkg_bytes": 19581,
+      "nupkg_sha256": "b1eae477803b17a79c88f88f26d532272c73740b6ea4471621943d9e9b44cc83",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "db55062d2ac62b5b869674853f5ae82e04c889568218423c1d26bbfacf5bcb86"
+    },
+    {
+      "id": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "6mU/cVmmHtQiDXhnzUImxIcDL48GbTk+TsptXyJA+MIOG9LRjPoAQC/qBFB7X+UNyK86bmvGwC8t+M66wsYC8w==",
+      "nupkg_bytes": 37725,
+      "nupkg_sha256": "26f325b667d50b9de6099b4a0c713af46dd14fa21ddbc867b249ed3fd30c3fd5",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "bf235b0c8edb38979e2e1e15ff96223d5951d6caf8c899da04a856833a37d69a"
+    },
+    {
+      "id": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "vjwG0GGcTW/PPg6KVud8F9GLWYuAV1rrw1BKAqY0oh4jcUqg15oYF1+qkGR2x2ZHM4DQnWKQ7cJgYbfncz/lYg==",
+      "nupkg_bytes": 42676,
+      "nupkg_sha256": "41f17159355134184de039b55d16c27feb28350a72f353ec65e777c7aa29fdb2",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "a8fa65e287d42ce60e7bf57630ff649b6ecd2e68f48bf415472b50c663975ded"
+    },
+    {
+      "id": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "7KMFpTkHC/zoExs+PwP8jDCWcrK9H6L7soowT80CUx3e+nxP/AFnq0AQAW5W76z2WYbLAYCRyPfwYFG6zkvQRw==",
+      "nupkg_bytes": 43121,
+      "nupkg_sha256": "11a24755cf5a0d9e85ee5b4cd89c2522e889bea33aec2291abaf368954a8fa95",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "41611979773abbf60a54dc51e10220d62246637daff0ce34dc70695f08ae5c7a"
+    },
+    {
+      "id": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "xrlmRCnKZJLHxyyLIqkZjNXqgxnKdZxfItrPkjI+6pkRo5lHX8YvSZlWrSI5AVwLMi4HbNWP7064hcAWeZKp5w==",
+      "nupkg_bytes": 42947,
+      "nupkg_sha256": "3c7474fbaac88c9b309fcf5ea225986350ee53cbbac5124baed8f290032e1660",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "c440ba79db4a9b1a82b5734ae0e3c4a53d7953d5fb948310f19319f9cbacee3f"
+    },
+    {
+      "id": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+      "version": "4.3.2",
+      "sha512": "leXiwfiIkW7Gmn7cgnNcdtNAU70SjmKW3jxGj1iKHOvdn0zRWsgv/l2OJUO5zdGdiv2VRFnAsxxhDgMzofPdWg==",
+      "nupkg_bytes": 42971,
+      "nupkg_sha256": "2c5921eee6bb478ac8e70d8a1a37079465cb79cb27702cba9035cbbb2e2a0ff4",
+      "metadata": {
+        "requireLicenseAcceptance": "true",
+        "licenseUrl": "http://go.microsoft.com/fwlink/?LinkId=329770",
+        "projectUrl": "https://dot.net/",
+        "copyright": "\u00a9 Microsoft Corporation.  All rights reserved.",
+        "title": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl",
+        "authors": "Microsoft",
+        "owners": "microsoft,dotnetframework",
+        "license_attributes": {},
+        "repository": {}
+      },
+      "license_files": [
+        {
+          "member": "dotnet_library_license.txt",
+          "bytes": 9323,
+          "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+        },
+        {
+          "member": "ThirdPartyNotices.txt",
+          "bytes": 1587,
+          "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+        }
+      ],
+      "nuspec_sha256": "e7e4b7a018a49b6f81e1a8a522cbf6fdbf07041c044634bba9f2be56e7d400e1"
+    }
+  ],
+  "embedded_license_retention": {
+    "original_members": 129,
+    "unique_byte_exact_full_texts": 11,
+    "scope": "optional oracle references, not redistribution of oracle binaries; Microsoft .NET Library terms and ServiceStack terms are not relicensed by main MIT license"
+  }
+}

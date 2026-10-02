@@ -1,0 +1,9 @@
+validation-local/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+.pytest_cache/

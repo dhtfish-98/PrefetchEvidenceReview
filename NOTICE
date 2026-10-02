@@ -1,0 +1,19 @@
+PrefetchEvidenceReview
+Copyright 2026 PrefetchEvidenceReview contributors
+New implementation assisted by AI. Application eligibility and required human contribution remain OPEN.
+
+Mechanism review: Windows-Prefetch-Parser, Copyright 2021 Adam Witt,
+Apache License 2.0. Original full notice is licenses/Windows-Prefetch-Parser-notice.txt.
+The reviewed decompression helper credits Francesco "dfirfpi" Picasso
+(francesco.picasso@gmail.com), based on
+https://github.com/dfirfpi/hotoloti/blob/master/sas/w10pfdecomp.py and Apache License 2.0.
+That helper is excluded from this implementation; its attribution is retained here.
+Complete Apache License 2.0 is LICENSE.
+
+Optional independent test oracle: PECmd, Copyright (c) 2018 Eric Zimmerman,
+and Prefetch, Copyright (c) 2016 Eric Zimmerman, MIT. Complete source licenses
+are licenses/PECmd-MIT.txt and licenses/Prefetch-MIT.txt.
+PECmd's NuGet dependencies have their own licenses and terms, listed in
+ORACLE_DEPENDENCIES.json. In particular, ServiceStack.Text points to
+https://servicestack.net/terms; PECmd's MIT source license does not relicense it.
+No oracle executable, SDK or NuGet package is redistributed by this project.

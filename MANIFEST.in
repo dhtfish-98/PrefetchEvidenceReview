@@ -1,0 +1,11 @@
+include LICENSE NOTICE README.md ORIGIN.md DEFENSIVE_SCOPE.md VALIDATION.md SOURCE_AUDIT.json ORACLE_DEPENDENCIES.json ORACLE_AUDIT.json oracle-packages.lock.json requirements-dev.txt .gitignore
+recursive-include licenses *.txt
+recursive-include src *.py py.typed
+recursive-include tests *.py
+recursive-include scripts *.py
+recursive-include .github *.yml
+prune validation-local
+prune dist
+prune build
+global-exclude *.pyc
+global-exclude __pycache__

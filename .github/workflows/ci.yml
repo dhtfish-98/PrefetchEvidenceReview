@@ -1,0 +1,58 @@
+name: prefetch-evidence-review
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  verify:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+        python: ['3.11', '3.14']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Source tests and build
+        run: |
+          python -m pip install -r requirements-dev.txt
+          PYTHONPATH=src python -m unittest discover -s tests -v
+          ruff check src tests scripts
+          ruff format --check src tests scripts
+          python -m build --no-isolation
+      - name: Fresh independent wheel consumer and installed CLI
+        run: |
+          python -m venv validation-local/consumer
+          validation-local/consumer/bin/python -m pip install --no-index --no-deps dist/prefetch_evidence_review-0.1.0-py3-none-any.whl
+          validation-local/consumer/bin/python -m pip check
+          consumer_python="$PWD/validation-local/consumer/bin/python"
+          repo_root="$PWD"
+          cd "$RUNNER_TEMP"
+          "$consumer_python" -I -m unittest discover -s "$repo_root/tests" -v
+          "$consumer_python" -I "$repo_root/scripts/installed_cli_check.py"
+          installed_dir=$("$consumer_python" -I -c 'import pathlib,prefetch_evidence_review; print(pathlib.Path(prefetch_evidence_review.__file__).parent.parent)')
+          "$consumer_python" -I "$repo_root/scripts/verify_package.py" "$repo_root" --installed "$installed_dir"
+  independent-oracle:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    env:
+      DOTNET_CLI_TELEMETRY_OPTOUT: '1'
+      DOTNET_SKIP_FIRST_TIME_EXPERIENCE: '1'
+      PYTHONPATH: src
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9
+        with:
+          dotnet-version: '9.0.318'
+      - name: Build pinned test entry and compare actual official JSON fields
+        run: |
+          python scripts/build_pecmd_oracle.py
+          python scripts/pecmd_differential.py --identity validation-local/oracle-repro/identity.json --output validation-local/comparison

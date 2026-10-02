@@ -1,0 +1,178 @@
+{
+  "PECmd": {
+    "repository": "EricZimmerman/PECmd",
+    "commit": "acdf082f1c2e946b0c358cdf6ef71607e00cfea0",
+    "archive_bytes": 149172,
+    "archive_sha256": "0e6143351769e75b3eed60fd6d23fa271c7fee009d40eff477d6f12937a37b3f",
+    "selected_full_source_read": [
+      {
+        "path": "PECmd/Program.cs",
+        "bytes": 49957,
+        "lines": 1400,
+        "sha256": "85f1f062db182b80381e000c07133c994b81811e692c876b21403a41fde84016",
+        "full_read": true
+      },
+      {
+        "path": "PECmd/PECmd.csproj",
+        "bytes": 2062,
+        "lines": 43,
+        "sha256": "9dedb6d3438e5ffc0b7165d4e01572f2e01e20f6f6a5bdae77f0c3c6d97d37d2",
+        "full_read": true
+      },
+      {
+        "path": "LICENSE",
+        "bytes": 1061,
+        "lines": 21,
+        "sha256": "0d0e3ae2a1554c3bf884100d71c5c7273d34e084327d6cbcdc51cf6a609d92d5",
+        "full_read": true
+      }
+    ],
+    "adaptation": "only Program entry telemetry Startup deletion and non-Windows early-exit deletion; Windows retains platform guard; parse and JSON source unchanged; full adapted Program also read",
+    "native_whole_tool_equivalence": "OPEN"
+  },
+  "Prefetch_parser_source": {
+    "repository": "EricZimmerman/Prefetch",
+    "commit": "27d87a095fe0bd4b07726aec867e1c0f1aef08f9",
+    "selected_full_source_read": [
+      {
+        "path": "Prefetch/PrefetchFile.cs",
+        "bytes": 2608,
+        "lines": 89,
+        "sha256": "c1f4d843348578b66032cdb285d89850e5785d277441f4091882e1721ecef809",
+        "git_blob": "80dfe7c982c30bed432be0be5cd075591ff6af81",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/IPrefetch.cs",
+        "bytes": 1415,
+        "lines": 66,
+        "sha256": "7f6940e571d0ee21c148648a7ffe8b536c204f1907a78f8dee32c8a243783428",
+        "git_blob": "540efdf70cf2794ad79050a3750af7a8a5dc00ca",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Versions/Version17.cs",
+        "bytes": 8063,
+        "lines": 204,
+        "sha256": "a8536905b6b9fa9a6cd74772468161a29786b2b36a6afee5c868ecbcd1750080",
+        "git_blob": "d5a46152d481c3312582c5726e30bf139702ad7b",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Versions/Version23.cs",
+        "bytes": 8323,
+        "lines": 209,
+        "sha256": "93e329fda22a31b916ea549e3a5396855c77e29e020428fb857caa63bbaeac78",
+        "git_blob": "d4b7cbe443fb59d3fab2474cd9148ee1a2c334bc",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Versions/Version26.cs",
+        "bytes": 8837,
+        "lines": 220,
+        "sha256": "3b149cf019d95201dbea635b184d29ceff715d76e586f1978339da0efd1b97d4",
+        "git_blob": "a68e64dd1f175d18f67108710b64d6102cca0558",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Other/Header.cs",
+        "bytes": 1704,
+        "lines": 66,
+        "sha256": "95f28b412969ba3798a6c8a75f7b6b80eae4a5826ee5e94d8eccbd575d8b19ab",
+        "git_blob": "316791a0abb3d3e7a9a3289d26dd6251f39c0d00",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Other/FileMetric.cs",
+        "bytes": 1419,
+        "lines": 47,
+        "sha256": "4856f9fd9d3b4f7bc98fd0c6d3645f9dd80325d28d3b4649afb111fa550eefc3",
+        "git_blob": "af13a8e6407141e3ecd4e42c68159cd8e4f568f6",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Other/TraceChain.cs",
+        "bytes": 1018,
+        "lines": 36,
+        "sha256": "ffe9a45d02e4bc2f787dc842b98f22baf7f4a4c6d99bd11e52dc18bee4cce49d",
+        "git_blob": "8197b128ae8e27f12428dfdbf910119812d39cea",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Other/MFTInformation.cs",
+        "bytes": 1163,
+        "lines": 55,
+        "sha256": "fd0c33763cbf7fbaece1fa561abe3ed513b82d53910997e17386f1c34cba07bb",
+        "git_blob": "96b8f3df9013f9b8a779b333346ff429c842acf6",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Other/VolumeInfo.cs",
+        "bytes": 724,
+        "lines": 27,
+        "sha256": "0020f6f324b2710c922fc82e47b6475a363d6bc175e69d86b08236b6aafc03a2",
+        "git_blob": "0d42f3d3ee3811fe04af2d45e6be29c478f2d799",
+        "full_read": true
+      },
+      {
+        "path": "Prefetch/Prefetch.csproj",
+        "bytes": 1837,
+        "lines": 38,
+        "sha256": "5a90ecd9112b78225e7e5a557cffd8e6263bc3ca24fc1436b0fe60b496705996",
+        "git_blob": "75d20c707c6d02d80bc93ea3868575ee4cf697ac",
+        "full_read": true
+      },
+      {
+        "path": "license",
+        "bytes": 1071,
+        "lines": 21,
+        "sha256": "dbf4a79e5fc96e1f5b51d33d24fba721af1e23e12c303f19cf73b1575e126228",
+        "git_blob": "c9f0e94408ac507cd1b523ce274038fca27ef2c3",
+        "full_read": true
+      }
+    ],
+    "NuGet_binary": "Prefetch 2026.5.2; binary package hash separately frozen; source-build-binary equality OPEN",
+    "excluded": "v30/v31 and XPRESS implementations, real sample tests, repository CI, and whole dependency-platform source not selected"
+  },
+  "format_reference": {
+    "repository": "libyal/libscca",
+    "commit": "d9ea0ceac5a971fa2856caf4fc6745f3b36cd9d9",
+    "path": "documentation/Windows Prefetch File (PF) format.asciidoc",
+    "bytes": 54896,
+    "sha256": "d93cb41763b624e15addb711cad22cbfb50928f3b8aabf4e2d7a907189102aac",
+    "url": "https://raw.githubusercontent.com/libyal/libscca/d9ea0ceac5a971fa2856caf4fc6745f3b36cd9d9/documentation/Windows%20Prefetch%20File%20%28PF%29%20format.asciidoc"
+  },
+  "supplemental_package_license_references": [
+    {
+      "name": "AlphaFS",
+      "url": "https://raw.githubusercontent.com/alphaleonis/AlphaFS/master/LICENSE.md",
+      "retrieved_utc_date": "2026-10-02",
+      "bytes": 1153,
+      "sha256": "e287d1d1b79396d0ea9dca7c24e6a2ad5ae60f74a5af1c24fbc89a64333075b9",
+      "retained_text": "licenses/oracle-AlphaFS-MIT.txt",
+      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof"
+    },
+    {
+      "name": "DeviceIOControlLib",
+      "url": "https://raw.githubusercontent.com/lordmike/deviceiocontrollib/master/LICENSE.txt",
+      "retrieved_utc_date": "2026-10-02",
+      "bytes": 1072,
+      "sha256": "936c3bc75630c609dcff2494de1a19e16eb2b3434ec975f6bfd830b45aa8bf2c",
+      "retained_text": "licenses/oracle-DeviceIOControlLib-MIT.txt",
+      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof"
+    }
+  ],
+  "license_scope": "full main Apache notice + Apache text + selected oracle MIT sources + all 129 embedded NuGet license/notice members retained byte-exact as 11 unique texts, plus 2 linked source MIT texts; 82 exact package hashes/declarations preserved; not all permissive, legal qualification OPEN; oracle SDK/binaries/packages not redistributed",
+  "official_nuget_terms_reference": "https://servicestack.net/terms",
+  "terms_retrieved_utc_date": "2026-10-02",
+  "reviewed_nuget_metadata": "all 82 actual nuspec license/authors/copyright/repository declarations and raw package hashes; all dependency implementation source NOT fully audited",
+  "local_official_sdk_download": {
+    "sdk": "9.0.318",
+    "runtime": "9.0.20",
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.318/dotnet-sdk-9.0.318-osx-arm64.tar.gz",
+    "bytes": 210486069,
+    "sha512": "4305c929005f47a933f33c253b6f47f8b21fd6096c7e359e78495e0de7c8ed1c6700aec2785a983d76ac7c99a66b1422abedb4056259b00e748ffbe36f243532",
+    "sha256": "60a441b5b92bccbdf269c46f76b43ca12331caf34c6dc73fb11d6fc62cfea467"
+  },
+  "sdk_license_scope": "SDK distribution MIT and bundled third-party notices retained only in ignored local SDK; no SDK redistributed"
+}

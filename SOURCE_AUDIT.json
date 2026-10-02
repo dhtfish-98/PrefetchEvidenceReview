@@ -1,0 +1,71 @@
+{
+  "repository": "PoorBillionaire/Windows-Prefetch-Parser",
+  "commit": "bc1fa58e82918c887d61981ec400e290ecbc6d1e",
+  "selected_full_files": [
+    {
+      "path": "windowsprefetch/windowsprefetch.py",
+      "bytes": 15908,
+      "lines": 368,
+      "git_blob": "b9e417a83d580c3a3612ff4087d8be890cc7ebf0",
+      "sha256": "399ef5c42178ae1028270d0b0111327e639864a6e733d17ee5f9ad5346bcd5ce",
+      "full_read": true
+    },
+    {
+      "path": "windowsprefetch/utils.py",
+      "bytes": 3949,
+      "lines": 98,
+      "git_blob": "67dafd37b94ad8907814bf976a5268e95ba7ccee",
+      "sha256": "b85f410a4850178d8a2698aac6cca88ad3b07fa1505639991bda3dbfa36a8e07",
+      "full_read": true
+    },
+    {
+      "path": "windowsprefetch/scripts/prefetch.py",
+      "bytes": 1993,
+      "lines": 64,
+      "git_blob": "c62f85c1bd4b7148967b1f6105669d80d96a36b2",
+      "sha256": "fc9dcf7aef9a1edaa00f592f5b00b3be4f5d465fd5b0cb2a0aecb3519c1f04b6",
+      "full_read": true
+    },
+    {
+      "path": "windowsprefetch/__init__.py",
+      "bytes": 157,
+      "lines": 5,
+      "git_blob": "d7494a980ab36db28a63547bf1f5cbf712b59d62",
+      "sha256": "52854a2cfd2f4e03b67d2a259aa696ba222e4d82daab9fc8bed7f77fd71daf35",
+      "full_read": true
+    },
+    {
+      "path": "windowsprefetch/scripts/__init__.py",
+      "bytes": 0,
+      "lines": 0,
+      "git_blob": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "full_read": true
+    },
+    {
+      "path": "setup.py",
+      "bytes": 1040,
+      "lines": 32,
+      "git_blob": "8ea03cd64b078cca4438ac3cef3b1867dc14c0a2",
+      "sha256": "e7e4cf7475f601bc2b94c81fd5690a1c6f2ba852fa91edb48318fd252dacf216",
+      "full_read": true
+    },
+    {
+      "path": "README.rst",
+      "bytes": 4906,
+      "lines": 115,
+      "git_blob": "c151d3db39f094c376f63845e5f1ab2ffa213cac",
+      "sha256": "b7dfdda65634cf6640ce7eff3f7ba7c65bab44927ecb8b30cc8c016d5e5934c7",
+      "full_read": true
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 549,
+      "lines": 13,
+      "git_blob": "a2c2a71aac83d011772e6c20fa40dc6ee1bd4205",
+      "sha256": "e4a8a79613bdd97927c00b1ecdd8631491428fe58d57a012f64971d858dba4a8",
+      "full_read": true
+    }
+  ],
+  "excluded": "Upstream binary TestFiles contain real system metadata and were not fetched. No upstream test program or CI tree. MAM ctypes decompression, temporary evidence writes, directory scans and version30 excluded after full closure review."
+}
