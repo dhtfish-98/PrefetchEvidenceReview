@@ -52,7 +52,9 @@ jobs:
       - uses: actions/setup-dotnet@67a3573c9a986a3f9c594539f4ab511d57bb3ce9
         with:
           dotnet-version: '9.0.318'
-      - name: Build pinned test entry and compare actual official JSON fields
+      - name: Build pinned test entry
         run: |
           python scripts/build_pecmd_oracle.py
+      - name: Compare actual official JSON fields
+        run: |
           python scripts/pecmd_differential.py --identity validation-local/oracle-repro/identity.json --output validation-local/comparison

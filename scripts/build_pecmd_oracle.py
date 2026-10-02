@@ -77,6 +77,7 @@ def main():
     )
     sdk = subprocess.run(
         [args.dotnet, "--version"],
+        cwd=ROOT,
         env=environment,
         check=True,
         capture_output=True,
