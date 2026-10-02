@@ -164,6 +164,7 @@ def main():
             "--locked-mode",
             "-p:TargetFrameworks=net9.0",
         ],
+        cwd=ROOT,
         env=environment,
         capture_output=True,
         timeout=1200,
@@ -183,7 +184,7 @@ def main():
         "-p:TargetFrameworks=net9.0",
         "--no-restore",
     ]
-    result = subprocess.run(command, env=environment, capture_output=True, timeout=1200)
+    result = subprocess.run(command, cwd=ROOT, env=environment, capture_output=True, timeout=1200)
     (workspace / "build.stdout").write_bytes(result.stdout)
     (workspace / "build.stderr").write_bytes(result.stderr)
     assert result.returncode == 0, "Oracle build failed; inspect private build log"
