@@ -4,17 +4,17 @@
   "version": "0.1.2",
   "implementation_author": "dhtfish98",
   "self_excluded_to_avoid_recursive_hash": true,
-  "current_validation": "项目文档/LICENSE_CLEANUP.json",
+  "current_validation": "LICENSE_CLEANUP.json",
   "files": [
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "a6f3e1dabfb33db1f2fcbe2c65a6a538f5387c973ab36141dd2808aa6c23f65c",
-      "bytes": 5325
+      "sha256": "6fb877c62d900282c6e22b1ffab9f0fcf8ffa30b388528758178f1fd69948fd0",
+      "bytes": 2560
     },
     {
       "path": ".gitignore",
-      "sha256": "b7ede5b7a69d0c864812abb52d3418b14ba3d60606a4c3a6cb3936e26d9e0dd1",
-      "bytes": 211
+      "sha256": "7b77d867cf1fcb5b8b6952e6a6aa7b8e72c7e7a79ca5e202d8159f85a3d5a70f",
+      "bytes": 97
     },
     {
       "path": "ATTRIBUTION_UPDATE.json",
@@ -22,9 +22,29 @@
       "bytes": 1057
     },
     {
+      "path": "DEFENSIVE_SCOPE.md",
+      "sha256": "7083822560ba93c83cc15b6fc6c5436dab567ef8c4028b1b5d30a34dc50a9ca1",
+      "bytes": 3145
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    },
+    {
+      "path": "LICENSE_CLEANUP.json",
+      "sha256": "1f926f19996ce4e4059c4fa7b83c5fc212ddf5673918916109021604bdfea8f1",
+      "bytes": 1446
+    },
+    {
       "path": "MANIFEST.in",
-      "sha256": "20fb3fabf5cc432bc0ad6c9356daf6b1e6b8c1028db54c952eae7ee421160879",
-      "bytes": 1164
+      "sha256": "7ad7571a35418dd8e40925f6b5c9c643c2c32000a0b18688930f0f4bc2bed711",
+      "bytes": 546
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "b8117e848934cc8c45cdf9cf68eb3034f9afc220c06994544915741981bd90ad",
+      "bytes": 1184
     },
     {
       "path": "ORACLE_AUDIT.json",
@@ -37,14 +57,34 @@
       "bytes": 110508
     },
     {
+      "path": "ORIGIN.md",
+      "sha256": "4e45bd6ce1558140ffc3c670b9e90e03b3e98f02dd8761e383dbe006a3553aa3",
+      "bytes": 5505
+    },
+    {
+      "path": "README.md",
+      "sha256": "8e0d801f174469ba28945accea099e63044e24419ea85266b04a2e9e950b581f",
+      "bytes": 3706
+    },
+    {
       "path": "SOURCE_AUDIT.json",
       "sha256": "cd45e1f9cae7b7c8b6d3158d496c59c172562dcdd9552a30cce2d5afd2007aeb",
       "bytes": 2503
     },
     {
+      "path": "VALIDATION.md",
+      "sha256": "07a53ec9f1263808345fdf39b4bffcbaf2d89c8fe1717bbfe99b8ab74da9947f",
+      "bytes": 9103
+    },
+    {
       "path": "global.json",
       "sha256": "5fd3e214333fc566f55e25fccbe48626b9b3218cda9a8bbfcfd6cb7f1c48c437",
       "bytes": 104
+    },
+    {
+      "path": "licenses/PECmd-MIT.txt",
+      "sha256": "0d0e3ae2a1554c3bf884100d71c5c7273d34e084327d6cbcdc51cf6a609d92d5",
+      "bytes": 1061
     },
     {
       "path": "oracle-packages.lock.json",
@@ -53,8 +93,8 @@
     },
     {
       "path": "pyproject.toml",
-      "sha256": "c6ce05feb663981b508ecb3d71da54d55080d2c82601802acdb2130c37cc4b3f",
-      "bytes": 799
+      "sha256": "d74e0d7af0918476a3e85972fb01d787c85d7a510a00fd495860f4a63f5d7b98",
+      "bytes": 747
     },
     {
       "path": "requirements-dev.txt",
@@ -78,8 +118,8 @@
     },
     {
       "path": "scripts/verify_package.py",
-      "sha256": "2d7b4b212f0d7419ef78ad45e607f4f1958fec8cee7f5c1500383cdc914846cb",
-      "bytes": 6459
+      "sha256": "8b0447bc7011aa03c024e4c04655ce4567be9bdac25fa18720ac837dab9f17dd",
+      "bytes": 6276
     },
     {
       "path": "src/prefetch_evidence_review/__init__.py",
@@ -135,73 +175,6 @@
       "path": "tests/test_safe_read_capabilities.py",
       "sha256": "b9f0b8ed2c58d183b8d6c672f3897844287aa31683d626fc400304383abeb8ee",
       "bytes": 6576
-    },
-    {
-      "sha256": "248c7594ad67a2d9380273b1dd68986253a2d9bac75595f1f6e3647720335c8e",
-      "bytes": 6787,
-      "path": "构建.py"
-    },
-    {
-      "sha256": "6ca53ac54176d664082db3a155e6f0606ec7364ea65f3ba3f501b015c1583eee",
-      "bytes": 1663,
-      "path": "构建配置.json"
-    },
-    {
-      "path": "项目文档/DEFENSIVE_SCOPE.md",
-      "sha256": "7083822560ba93c83cc15b6fc6c5436dab567ef8c4028b1b5d30a34dc50a9ca1",
-      "bytes": 3145
-    },
-    {
-      "path": "项目文档/LICENSE",
-      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
-      "bytes": 11358
-    },
-    {
-      "path": "项目文档/LICENSE_CLEANUP.json",
-      "sha256": "1f926f19996ce4e4059c4fa7b83c5fc212ddf5673918916109021604bdfea8f1",
-      "bytes": 1446
-    },
-    {
-      "path": "项目文档/NOTICE",
-      "sha256": "b8117e848934cc8c45cdf9cf68eb3034f9afc220c06994544915741981bd90ad",
-      "bytes": 1184
-    },
-    {
-      "path": "项目文档/ORIGIN.md",
-      "sha256": "4e45bd6ce1558140ffc3c670b9e90e03b3e98f02dd8761e383dbe006a3553aa3",
-      "bytes": 5505
-    },
-    {
-      "path": "项目文档/README.md",
-      "sha256": "360a1db4abe535f3499f091f2b88b1b85caf2f851bdd144ed799701c07e2b9f4",
-      "bytes": 4067
-    },
-    {
-      "path": "项目文档/VALIDATION.md",
-      "sha256": "07a53ec9f1263808345fdf39b4bffcbaf2d89c8fe1717bbfe99b8ab74da9947f",
-      "bytes": 9103
-    },
-    {
-      "path": "项目文档/licenses/PECmd-MIT.txt",
-      "sha256": "0d0e3ae2a1554c3bf884100d71c5c7273d34e084327d6cbcdc51cf6a609d92d5",
-      "bytes": 1061
-    },
-    {
-      "sha256": "0c3e421f5501e02008cbf6e1266d9cf46c20f21c78bfe976a874e42330d062cd",
-      "bytes": 5582,
-      "path": "项目文档/历史/目录更新20261003/SOURCE_MANIFEST.json.public-6b8ad2b08f36.json"
-    },
-    {
-      "path": "项目文档/目录与构建.md",
-      "sha256": "3f7599e7a43cd47108377905ec46e6894317d8e574e3f865157e9fc9bc6d7c72",
-      "bytes": 816
     }
-  ],
-  "directory_layout_maintenance": {
-    "base_public_commit": "6b8ad2b08f36091b4b1c03940c353ae91b2138cb",
-    "original_inventory": "项目文档/历史/目录更新20261003/SOURCE_MANIFEST.json.public-6b8ad2b08f36.json",
-    "original_inventory_sha256": "0c3e421f5501e02008cbf6e1266d9cf46c20f21c78bfe976a874e42330d062cd",
-    "path_view": "Canonical repository paths; the builder also restores byte-identical legacy aliases under ignored Build for existing packaging checks",
-    "scope": "Current file inventory and packaging paths only; runtime bytes/version/API unchanged. Historical validation and security conclusions are retained, not rerun or newly certified."
-  }
+  ]
 }

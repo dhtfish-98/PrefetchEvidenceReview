@@ -10,8 +10,32 @@ jobs:
         os: [ubuntu-latest, macos-latest]
         python: ['3.11', '3.14']
     runs-on: ${{ matrix.os }}
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}/Build/源码
+    env:
+      TMPDIR: ${{ github.workspace }}/Build/临时
+      TMP: ${{ github.workspace }}/Build/临时
+      TEMP: ${{ github.workspace }}/Build/临时
+      PYTHONPYCACHEPREFIX: ${{ github.workspace }}/Build/缓存/python
+      PIP_CACHE_DIR: ${{ github.workspace }}/Build/缓存/pip
+      npm_config_cache: ${{ github.workspace }}/Build/缓存/npm
+      RUFF_CACHE_DIR: ${{ github.workspace }}/Build/缓存/ruff
+      GOCACHE: ${{ github.workspace }}/Build/缓存/go
+      GOMODCACHE: ${{ github.workspace }}/Build/缓存/go-mod
+      GOTMPDIR: ${{ github.workspace }}/Build/临时
+      GOPATH: ${{ github.workspace }}/Build/缓存/go-path
+      GOBIN: ${{ github.workspace }}/Build/输出/go-bin
+      CARGO_HOME: ${{ github.workspace }}/Build/缓存/cargo
+      XDG_CACHE_HOME: ${{ github.workspace }}/Build/缓存/xdg
+      CCACHE_DIR: ${{ github.workspace }}/Build/缓存/ccache
+      SCCACHE_DIR: ${{ github.workspace }}/Build/缓存/sccache
+      NODE_COMPILE_CACHE: ${{ github.workspace }}/Build/缓存/node
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Stage source and restored project inputs under Build
+        run: ${{ runner.os == 'Windows' && 'python' || 'python3' }} 构建.py --stage --ci
+        working-directory: ${{ github.workspace }}
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
         with:
           python-version: ${{ matrix.python }}
@@ -29,7 +53,7 @@ jobs:
           validation-local/consumer/bin/python -m pip check
           consumer_python="$PWD/validation-local/consumer/bin/python"
           repo_root="$PWD"
-          cd "$RUNNER_TEMP"
+          cd "$TMPDIR"
           "$consumer_python" -I -m unittest discover -s "$repo_root/tests" -v
           "$consumer_python" -I "$repo_root/scripts/installed_cli_check.py"
           installed_dir=$("$consumer_python" -I -c 'import pathlib,prefetch_evidence_review; print(pathlib.Path(prefetch_evidence_review.__file__).parent.parent)')
@@ -41,11 +65,36 @@ jobs:
         os: [ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     env:
+      TMPDIR: ${{ github.workspace }}/Build/临时
+      TMP: ${{ github.workspace }}/Build/临时
+      TEMP: ${{ github.workspace }}/Build/临时
+      PYTHONPYCACHEPREFIX: ${{ github.workspace }}/Build/缓存/python
+      PIP_CACHE_DIR: ${{ github.workspace }}/Build/缓存/pip
+      npm_config_cache: ${{ github.workspace }}/Build/缓存/npm
+      RUFF_CACHE_DIR: ${{ github.workspace }}/Build/缓存/ruff
+      GOCACHE: ${{ github.workspace }}/Build/缓存/go
+      GOMODCACHE: ${{ github.workspace }}/Build/缓存/go-mod
+      GOTMPDIR: ${{ github.workspace }}/Build/临时
+      GOPATH: ${{ github.workspace }}/Build/缓存/go-path
+      GOBIN: ${{ github.workspace }}/Build/输出/go-bin
+      CARGO_HOME: ${{ github.workspace }}/Build/缓存/cargo
+      XDG_CACHE_HOME: ${{ github.workspace }}/Build/缓存/xdg
+      CCACHE_DIR: ${{ github.workspace }}/Build/缓存/ccache
+      SCCACHE_DIR: ${{ github.workspace }}/Build/缓存/sccache
+      NODE_COMPILE_CACHE: ${{ github.workspace }}/Build/缓存/node
+      DOTNET_CLI_HOME: ${{ github.workspace }}/Build/缓存/dotnet-home
+      NUGET_PACKAGES: ${{ github.workspace }}/Build/缓存/nuget
       DOTNET_CLI_TELEMETRY_OPTOUT: '1'
       DOTNET_SKIP_FIRST_TIME_EXPERIENCE: '1'
       PYTHONPATH: src
+    defaults:
+      run:
+        working-directory: ${{ github.workspace }}/Build/源码
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Stage source and restored project inputs under Build
+        run: ${{ runner.os == 'Windows' && 'python' || 'python3' }} 构建.py --stage --ci
+        working-directory: ${{ github.workspace }}
       - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
         with:
           python-version: '3.11'
