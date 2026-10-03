@@ -65,6 +65,8 @@ jobs:
         os: [ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     env:
+      PYTHONUTF8: '1'
+      PYTHONIOENCODING: utf-8
       TMPDIR: ${{ github.workspace }}/Build/临时
       TMP: ${{ github.workspace }}/Build/临时
       TEMP: ${{ github.workspace }}/Build/临时
