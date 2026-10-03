@@ -149,8 +149,8 @@
       "retrieved_utc_date": "2026-10-02",
       "bytes": 1153,
       "sha256": "e287d1d1b79396d0ea9dca7c24e6a2ad5ae60f74a5af1c24fbc89a64333075b9",
-      "retained_text": "licenses/oracle-AlphaFS-MIT.txt",
-      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof"
+      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof",
+      "historical_optional_reference_copy": "licenses/oracle-AlphaFS-MIT.txt"
     },
     {
       "name": "DeviceIOControlLib",
@@ -158,11 +158,11 @@
       "retrieved_utc_date": "2026-10-02",
       "bytes": 1072,
       "sha256": "936c3bc75630c609dcff2494de1a19e16eb2b3434ec975f6bfd830b45aa8bf2c",
-      "retained_text": "licenses/oracle-DeviceIOControlLib-MIT.txt",
-      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof"
+      "source_release_license_equivalence": "OPEN; URL is package-declared repository license, not historical release proof",
+      "historical_optional_reference_copy": "licenses/oracle-DeviceIOControlLib-MIT.txt"
     }
   ],
-  "license_scope": "full main Apache notice + Apache text + selected oracle MIT sources + all 129 embedded NuGet license/notice members retained byte-exact as 11 unique texts, plus 2 linked source MIT texts; 82 exact package hashes/declarations preserved; not all permissive, legal qualification OPEN; oracle SDK/binaries/packages not redistributed",
+  "license_scope": "Current product distributes root Apache-2.0 and unchanged PECmd MIT for its actual copied 344-byte test-helper literal. Other optional full reference texts are omitted; actual externally acquired oracle/SDK/NuGet packages retain their own terms and verified original license-member hashes.",
   "official_nuget_terms_reference": "https://servicestack.net/terms",
   "terms_retrieved_utc_date": "2026-10-02",
   "reviewed_nuget_metadata": "all 82 actual nuspec license/authors/copyright/repository declarations and raw package hashes; all dependency implementation source NOT fully audited",
@@ -174,5 +174,6 @@
     "sha512": "4305c929005f47a933f33c253b6f47f8b21fd6096c7e359e78495e0de7c8ed1c6700aec2785a983d76ac7c99a66b1422abedb4056259b00e748ffbe36f243532",
     "sha256": "60a441b5b92bccbdf269c46f76b43ca12331caf34c6dc73fb11d6fc62cfea467"
   },
-  "sdk_license_scope": "SDK distribution MIT and bundled third-party notices retained only in ignored local SDK; no SDK redistributed"
+  "sdk_license_scope": "SDK distribution MIT and bundled third-party notices retained only in ignored local SDK; no SDK redistributed",
+  "historical_license_scope": "full main Apache notice + Apache text + selected oracle MIT sources + all 129 embedded NuGet license/notice members retained byte-exact as 11 unique texts, plus 2 linked source MIT texts; 82 exact package hashes/declarations preserved; not all permissive, legal qualification OPEN; oracle SDK/binaries/packages not redistributed"
 }

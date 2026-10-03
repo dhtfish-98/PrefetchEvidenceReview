@@ -142,7 +142,7 @@
           "member": "LICENSE.txt",
           "bytes": 559,
           "sha256": "10dffa4a31cee619d723ba7f2f3942a129dd469cd7504e7407d6558db78e536f",
-          "retained_text": "licenses/oracle-10dffa4a31cee619.txt"
+          "historical_optional_reference_copy": "licenses/oracle-10dffa4a31cee619.txt"
         }
       ],
       "nuspec_sha256": "e8b8963ffcdf7b4fc67cac0b09020b3e52e391159ecd0217bfa6481d8765e0eb"
@@ -295,13 +295,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 46990,
           "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+          "historical_optional_reference_copy": "licenses/oracle-a6344bfb229bc08d.txt"
         }
       ],
       "nuspec_sha256": "c970cd7ed581b7023f64ad3561493f30d3d61e87a7578404e2f540a033d9d9ca"
@@ -332,13 +332,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 46990,
           "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+          "historical_optional_reference_copy": "licenses/oracle-a6344bfb229bc08d.txt"
         }
       ],
       "nuspec_sha256": "96c58fc65ee310f9bddff555dd10edd5f39aad599d735f8baf374f20d56578f0"
@@ -365,13 +365,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 11591,
           "sha256": "0ef4dce1f4e8965f19a3b8b2f984f337d5c35e5aaf7f8a36b95aec66c301963a",
-          "retained_text": "licenses/oracle-0ef4dce1f4e8965f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0ef4dce1f4e8965f.txt"
         }
       ],
       "nuspec_sha256": "d8b6b7804eac020e05714ec53d68d0e01f5b040a9422a0a3dc5810550ebb599b"
@@ -398,13 +398,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "0cc9f075175bd49f2efa789588d75d3b4c1d247eec1b7e9bb2a50882ee6f6bb3"
@@ -431,13 +431,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "62ab73ac61fb0afe220ae4a54e9fb1ff825b267f8ea9866171900b5245d8a3ef"
@@ -464,13 +464,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 15835,
           "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+          "historical_optional_reference_copy": "licenses/oracle-7864a01e2fdef7e8.txt"
         }
       ],
       "nuspec_sha256": "3b558971271e1696213a62d1a48df8858d9dbbc031bcce277ef3f3f5dfe2633c"
@@ -621,13 +621,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "bbc4ef15f58b7f889b20647ee7cadc05650721164d10e35c381061380893e1e8"
@@ -658,13 +658,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 46990,
           "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+          "historical_optional_reference_copy": "licenses/oracle-a6344bfb229bc08d.txt"
         }
       ],
       "nuspec_sha256": "821496ba75b02b38551571d1ae0ae2e26c36ce7d38a98276b387231d1709b3ca"
@@ -691,13 +691,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "408d80324029f2c5fc57a4c0cb8e1de11f56f24789fcddd511be5fca638f9e62"
@@ -749,13 +749,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "da4c7cd7f70293db2a0c1584a3f772cc8af7e3e6e4382d59d233ada30bba4db9"
@@ -782,13 +782,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "9ecaefa5cfcef81bd960abb5590f0efdeb55329186a90386fb784d754286ee17"
@@ -815,13 +815,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "0327d7943e11ef98c72b7099655e56e429a7e88a14d7ad3a33ad32197fe2661c"
@@ -848,13 +848,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "ca4a1ceef08ca8d49f3e6b01ee554f6f8655da0f3805aa0fa970212723364c36"
@@ -881,13 +881,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "943c023468c074b99aafa578ef6b1a01436906574c2a0fe0482bf09a75d0a02a"
@@ -914,13 +914,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "1ee9ef198641c113fbd6957dc69329c51832c5c4eecf122a637ec9603f7c8f6d"
@@ -947,13 +947,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 15835,
           "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+          "historical_optional_reference_copy": "licenses/oracle-7864a01e2fdef7e8.txt"
         }
       ],
       "nuspec_sha256": "6b8f06eb470a9bc7d16ea76005299cd97acd2aaa1a059bb5479c47696753a82b"
@@ -980,13 +980,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "246beaa09f0a7fa193305f986ca13626f55c45468fc04f7aab2dba765da3d9f3"
@@ -1013,13 +1013,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "c9c8c39f978e441499568a45e9226d7c76e5f8d5c9bde2d8957c0ff6aa916d26"
@@ -1046,13 +1046,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "611c672da36117faef06558d240ef35ea83b2057065154492c11161bb5d29386"
@@ -1079,13 +1079,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "86a497a962ee197ca3a2eb630503c8c63e740259ef624d84b29eea2f492306d5"
@@ -1112,13 +1112,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "2936b0f9caa1615ca8f22f69580499ded6d53c8e68c3f19fa50f6ef0892e54cf"
@@ -1145,13 +1145,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "7dfac6213ac7b9b131a7008a1419c5c7e57bec23751960410c5666ccff983ab8"
@@ -1178,13 +1178,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "09ee0bdc32e5dfb43e0b3f03904a09d4d391fbc185c0a3d8be21d33a0c43c797"
@@ -1214,13 +1214,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 18886,
           "sha256": "388c07f579998286e5df706a2e68bf6e01100187ccb0ff0310e26c3383f7b2b2",
-          "retained_text": "licenses/oracle-388c07f579998286.txt"
+          "historical_optional_reference_copy": "licenses/oracle-388c07f579998286.txt"
         }
       ],
       "nuspec_sha256": "a4a7734c7045b36c3274fdb7270606ab210fec563269cc0bc5d95419970c98c1"
@@ -1251,13 +1251,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 46990,
           "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+          "historical_optional_reference_copy": "licenses/oracle-a6344bfb229bc08d.txt"
         }
       ],
       "nuspec_sha256": "b0d8cff2fc9303c1ec0dbc53f2671a77254e3565564000749f77ed2e06ad891b"
@@ -1284,13 +1284,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "bc08fd05ca10261ea778fa77b76bc5957e4027b6dc00691af5edcb55aa4b4a59"
@@ -1317,13 +1317,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "a926c4fbe86e17f374c0ccfece7d11e3e3d106878a1ef5b96ecb7d3c6afb1051"
@@ -1350,13 +1350,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "2b427956224e09bedd9eb4169a04c6f0a604dfc98e601fc6d46f921837a4093f"
@@ -1387,13 +1387,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 46990,
           "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-          "retained_text": "licenses/oracle-a6344bfb229bc08d.txt"
+          "historical_optional_reference_copy": "licenses/oracle-a6344bfb229bc08d.txt"
         }
       ],
       "nuspec_sha256": "edaccfd50eebadf418188db5a19cb7b24c887fbbc638f2e4d402ff94bbcc14dc"
@@ -1420,13 +1420,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "68659d62a0368110b3a24adda0db7f801b594e9d27099692b3502b6058b38077"
@@ -1453,13 +1453,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "fcc29585c4244ffcb525d1757e6c7b5b474108966a7f0c31a7f16fff1e3c8db9"
@@ -1486,13 +1486,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "9857c66a8f98b0c39da937824f5c4e174c8ba62ebec45eade6d4a35af4b266b1"
@@ -1519,13 +1519,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "c0e75cc55cdcf78bfd5e95eaaa6803ef2390bac6716bdb3e12ab854bce5741ab"
@@ -1552,13 +1552,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "5226ada1410ef367a00fd5c49154de71f72a1de78f92f7c4c1298277b3ddde06"
@@ -1585,13 +1585,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 15835,
           "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+          "historical_optional_reference_copy": "licenses/oracle-7864a01e2fdef7e8.txt"
         }
       ],
       "nuspec_sha256": "7c489a317104cec67368a372d71167d172899a6655ff59c73766ca6b2451b816"
@@ -1618,13 +1618,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "b9ab233625b888dfe57c9a64cac31fc52cd494636143bec0aad406e96a624eed"
@@ -1651,13 +1651,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "ca3e616066a4a4c2a0839dcf5de9b1a97072eaa8ef1aa8984d8e976f1a9d5acf"
@@ -1684,13 +1684,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "706987fdcdfb1c1619f7917e500aa0c2fe70ce56e930507583d0273340251f67"
@@ -1717,13 +1717,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "8fa211e2c861f4f35335c2fd474da11f499941fa0b763028747c9a16593a445c"
@@ -1750,13 +1750,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "012dd253164ce227f72e14fd784a9d027d838e603e8a0e0ab98e661f20c3b2d8"
@@ -1783,13 +1783,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "5fe70ca258ad878cb46768847fca6593f6cf9a2224453ffdd6d10540d3d863a3"
@@ -1816,13 +1816,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "b73a66b5be345329f820beff59cc1f6c801e99e61cd548d55f3464b67b008bd1"
@@ -1849,13 +1849,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 15835,
           "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+          "historical_optional_reference_copy": "licenses/oracle-7864a01e2fdef7e8.txt"
         }
       ],
       "nuspec_sha256": "4d1e6f0e8878c6ef013656373d5e08a3e1a9cf9bb3a6e5f2ae44e9539f2a8187"
@@ -1889,13 +1889,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 44279,
           "sha256": "78e22d4d24a710d2a09426c09060f3448204778ed506b1da55447a6089b54fae",
-          "retained_text": "licenses/oracle-78e22d4d24a710d2.txt"
+          "historical_optional_reference_copy": "licenses/oracle-78e22d4d24a710d2.txt"
         }
       ],
       "nuspec_sha256": "ed55220555995a78dd6d708cf9bac9a86f6d93589cd427ef501c87ddbcbf5e83"
@@ -1922,13 +1922,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "bcfe35950f96e212495abd669126c8d26bbbdaeec099551a6bdebe8e2e687699"
@@ -1955,13 +1955,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "5f1763e8cc14f1b13c48c4b3cd85ba023c97eb6c9d72fbe2dbd6570e4fbdc6c4"
@@ -1988,13 +1988,13 @@
           "member": "LICENSE.TXT",
           "bytes": 1139,
           "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-          "retained_text": "licenses/oracle-d7a68596ab69b06f.txt"
+          "historical_optional_reference_copy": "licenses/oracle-d7a68596ab69b06f.txt"
         },
         {
           "member": "THIRD-PARTY-NOTICES.TXT",
           "bytes": 15835,
           "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-          "retained_text": "licenses/oracle-7864a01e2fdef7e8.txt"
+          "historical_optional_reference_copy": "licenses/oracle-7864a01e2fdef7e8.txt"
         }
       ],
       "nuspec_sha256": "942bd07aa8206c8a2b4923dfe013fd617b28d89130eebabc802d86491bf2fc6f"
@@ -2021,13 +2021,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "f0cd690ca297a98acfd458957802d6769c917188fe25f14d34a2670f18e6e5af"
@@ -2054,13 +2054,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "8ebf69b683a4d2334fcdd914ed39506118b8a6a8812d06097c693dee07c45e63"
@@ -2111,13 +2111,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "b785ee34d6e6f29fcf03e01f7639e0c2d8b9abc40de72ad8af2400ad028e8acf"
@@ -2144,13 +2144,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "6857262d5dc864fcee6510fb87eef70c3ff363037e7c056ae46cdba17e498783"
@@ -2177,13 +2177,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "7bf24af743305182fc061a561a93b24205d69f9b77b4f10696ef4a10523ebbbb"
@@ -2210,13 +2210,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "ffb15ca76ff235fb39f9e14e213f15ba164a2595f3b16d5a5e69585b6dcc6dc4"
@@ -2243,13 +2243,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "7ce4a4ffa88fc987524fa8a73a04d6b20c497297458cd87bcccfe5e0b2e435b2"
@@ -2276,13 +2276,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "dfb99b50990bbc2e253e0e49c7db1e268e9cb19a1f7d6f2c806f521807485c26"
@@ -2309,13 +2309,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9451,
           "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-          "retained_text": "licenses/oracle-f1db688d8481c91a.txt"
+          "historical_optional_reference_copy": "licenses/oracle-f1db688d8481c91a.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1617,
           "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-          "retained_text": "licenses/oracle-0684b2349427ee28.txt"
+          "historical_optional_reference_copy": "licenses/oracle-0684b2349427ee28.txt"
         }
       ],
       "nuspec_sha256": "516e68cef616a3208bfe1203a7a7eaef386cdeed487302d26eb8385e9a62f297"
@@ -2342,13 +2342,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "b648b1ff65d3d514b0670f5f93b0c770254fde03f57035546ef35746b2db3918"
@@ -2375,13 +2375,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "b4fdff82ee7c73421f50b9e4296ff414b687bc9ec9bd923900be93b2b97fa20f"
@@ -2408,13 +2408,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "db55062d2ac62b5b869674853f5ae82e04c889568218423c1d26bbfacf5bcb86"
@@ -2441,13 +2441,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "bf235b0c8edb38979e2e1e15ff96223d5951d6caf8c899da04a856833a37d69a"
@@ -2474,13 +2474,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "a8fa65e287d42ce60e7bf57630ff649b6ecd2e68f48bf415472b50c663975ded"
@@ -2507,13 +2507,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "41611979773abbf60a54dc51e10220d62246637daff0ce34dc70695f08ae5c7a"
@@ -2540,13 +2540,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "c440ba79db4a9b1a82b5734ae0e3c4a53d7953d5fb948310f19319f9cbacee3f"
@@ -2573,13 +2573,13 @@
           "member": "dotnet_library_license.txt",
           "bytes": 9323,
           "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-          "retained_text": "licenses/oracle-b7d43d08f5963712.txt"
+          "historical_optional_reference_copy": "licenses/oracle-b7d43d08f5963712.txt"
         },
         {
           "member": "ThirdPartyNotices.txt",
           "bytes": 1587,
           "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-          "retained_text": "licenses/oracle-fd880d29a522f238.txt"
+          "historical_optional_reference_copy": "licenses/oracle-fd880d29a522f238.txt"
         }
       ],
       "nuspec_sha256": "e7e4b7a018a49b6f81e1a8a522cbf6fdbf07041c044634bba9f2be56e7d400e1"
@@ -2588,6 +2588,7 @@
   "embedded_license_retention": {
     "original_members": 129,
     "unique_byte_exact_full_texts": 11,
-    "scope": "optional oracle references, not redistribution of oracle binaries; Microsoft .NET Library terms and ServiceStack terms are not relicensed by main MIT license"
+    "scope": "Original optional oracle package/license-member identities retained for verification; corresponding SDK/NuGet implementations are not redistributed by this product. Optional duplicate full reference text copies are omitted; actual acquired packages keep their original terms.",
+    "current_product_reference_copies_distributed": false
   }
 }

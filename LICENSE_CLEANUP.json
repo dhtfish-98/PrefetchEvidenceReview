@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "project": "PrefetchEvidenceReview",
+  "version": "0.1.2",
+  "implementation_author": "dhtfish98",
+  "scope": "Material-backed license-reference cleanup; runtime parsing/evidence logic unchanged.",
+  "removed_reference_files": [
+    "licenses/Prefetch-MIT.txt",
+    "licenses/Windows-Prefetch-Parser-notice.txt",
+    "licenses/oracle-0684b2349427ee28.txt",
+    "licenses/oracle-0ef4dce1f4e8965f.txt",
+    "licenses/oracle-10dffa4a31cee619.txt",
+    "licenses/oracle-388c07f579998286.txt",
+    "licenses/oracle-7864a01e2fdef7e8.txt",
+    "licenses/oracle-78e22d4d24a710d2.txt",
+    "licenses/oracle-AlphaFS-MIT.txt",
+    "licenses/oracle-DeviceIOControlLib-MIT.txt",
+    "licenses/oracle-a6344bfb229bc08d.txt",
+    "licenses/oracle-b7d43d08f5963712.txt",
+    "licenses/oracle-d7a68596ab69b06f.txt",
+    "licenses/oracle-f1db688d8481c91a.txt",
+    "licenses/oracle-fd880d29a522f238.txt"
+  ],
+  "retained_license_files": [
+    "LICENSE",
+    "NOTICE",
+    "licenses/PECmd-MIT.txt"
+  ],
+  "actual_material_boundaries": "Real reused decoder, native dependency, Microsoft example and copied PECmd test fragment remain attributed where present. Genuine Lnk offline build tools retain original notices.",
+  "validation_record": "VALIDATION.md; external package/build/consumer records bind actual assets and results.",
+  "current_source_manifest": "SOURCE_MANIFEST.json",
+  "source_tests": {
+    "status": "PASS",
+    "count": 50
+  }
+}

@@ -1,19 +1,20 @@
 PrefetchEvidenceReview
-Copyright 2026 dhtfish98
-New implementation author: dhtfish98. Application eligibility and required human contribution remain OPEN.
+Copyright 2026 dhtfish98. Independent finite uncompressed Python parser, Apache-2.0.
 
-Mechanism review: Windows-Prefetch-Parser, Copyright 2021 Adam Witt,
-Apache License 2.0. Original full notice is licenses/Windows-Prefetch-Parser-notice.txt.
-The reviewed decompression helper credits Francesco "dfirfpi" Picasso
-(francesco.picasso@gmail.com), based on
-https://github.com/dfirfpi/hotoloti/blob/master/sas/w10pfdecomp.py and Apache License 2.0.
-That helper is excluded from this implementation; its attribution is retained here.
-Complete Apache License 2.0 is LICENSE.
+Design/format references: Windows-Prefetch-Parser at
+bc1fa58e82918c887d61981ec400e290ecbc6d1e and the fixed libyal/libscca document.
+No original Python parser, XPRESS helper, real .pf file or document is bundled.
 
-Optional independent test oracle: PECmd, Copyright (c) 2018 Eric Zimmerman,
-and Prefetch, Copyright (c) 2016 Eric Zimmerman, MIT. Complete source licenses
-are licenses/PECmd-MIT.txt and licenses/Prefetch-MIT.txt.
-PECmd's NuGet dependencies have their own licenses and terms, listed in
-ORACLE_DEPENDENCIES.json. In particular, ServiceStack.Text points to
-https://servicestack.net/terms; PECmd's MIT source license does not relicense it.
-No oracle executable, SDK or NuGet package is redistributed by this project.
+Actual copied test-helper material: scripts/build_pecmd_oracle.py embeds the
+eight-line (344-byte) platform guard from PECmd Program.cs at
+acdf082f1c2e946b0c358cdf6ef71607e00cfea0, original lines 252-259.
+PECmd copyright (c) 2018 Eric Zimmerman; its complete MIT permission and
+disclaimer remain unchanged in licenses/PECmd-MIT.txt. This excerpt is not
+claimed as newly authored project code.
+
+The optional externally obtained PECmd/Prefetch oracle and its locked NuGet
+dependencies retain their own terms. No oracle executable, SDK, NuGet package
+or dependency implementation is redistributed. Original package/license hashes
+and package-specific terms remain in ORACLE_DEPENDENCIES.json/ORACLE_AUDIT.json;
+unused duplicate reference text files are omitted. These dependencies are not
+uniformly permissive and the project license does not replace their terms.

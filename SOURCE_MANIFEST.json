@@ -1,13 +1,14 @@
 {
   "schema": 1,
   "project": "PrefetchEvidenceReview",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "implementation_author": "dhtfish98",
   "self_excluded_to_avoid_recursive_hash": true,
+  "current_validation": "LICENSE_CLEANUP.json",
   "files": [
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "fdade98c56301e797fa016b1ebf0fa5206a51ea8485e09297ec1f844d4c1e654",
+      "sha256": "6fb877c62d900282c6e22b1ffab9f0fcf8ffa30b388528758178f1fd69948fd0",
       "bytes": 2560
     },
     {
@@ -17,8 +18,8 @@
     },
     {
       "path": "ATTRIBUTION_UPDATE.json",
-      "sha256": "7d6a3dc716ec7e6388cbb11c3606e694eb9135e4c29d568c26d9cf881fa0cfc7",
-      "bytes": 941
+      "sha256": "7598caf82c9431ec6d91bab057f2983037ba3e4b7e6fd101f416b798ba1a1990",
+      "bytes": 1057
     },
     {
       "path": "DEFENSIVE_SCOPE.md",
@@ -31,29 +32,34 @@
       "bytes": 11358
     },
     {
+      "path": "LICENSE_CLEANUP.json",
+      "sha256": "1f926f19996ce4e4059c4fa7b83c5fc212ddf5673918916109021604bdfea8f1",
+      "bytes": 1446
+    },
+    {
       "path": "MANIFEST.in",
-      "sha256": "e51900de939971252ec9431503e90e3c4a02e2b5b9f5b8a11aa1a6885166a30d",
-      "bytes": 516
+      "sha256": "7ad7571a35418dd8e40925f6b5c9c643c2c32000a0b18688930f0f4bc2bed711",
+      "bytes": 546
     },
     {
       "path": "NOTICE",
-      "sha256": "f51c17b4ad9524511e5d8d400bd8838746b0c99a73a37a7148b675e889fe7bac",
-      "bytes": 1153
+      "sha256": "b8117e848934cc8c45cdf9cf68eb3034f9afc220c06994544915741981bd90ad",
+      "bytes": 1184
     },
     {
       "path": "ORACLE_AUDIT.json",
-      "sha256": "4ec1d7a6d54c7c621531bb8a7627c5c12c278cf56787b92ce8b8c6a3bcd8d07b",
-      "bytes": 7659
+      "sha256": "dcc445f0d2782b4382e0f344a2ddb9fae25189d5bd5c63333ebc48ec8d84581a",
+      "bytes": 8024
     },
     {
       "path": "ORACLE_DEPENDENCIES.json",
-      "sha256": "ea0ed86df5743efe72cf6a569dc548b79eb2cc17db97b382eb3c890f9576ab00",
-      "bytes": 107622
+      "sha256": "9b688ee2a2c1ac1ee372246e7267c7c334019a9ff4a2bee7e5700850696fe555",
+      "bytes": 110508
     },
     {
       "path": "ORIGIN.md",
-      "sha256": "a6bc33930ca6eceb91608ad9a5c8aee502e5492163b3be0606949e2877227547",
-      "bytes": 5176
+      "sha256": "4e45bd6ce1558140ffc3c670b9e90e03b3e98f02dd8761e383dbe006a3553aa3",
+      "bytes": 5505
     },
     {
       "path": "README.md",
@@ -67,8 +73,8 @@
     },
     {
       "path": "VALIDATION.md",
-      "sha256": "eddb931eb5c04f22baf1b316ccb4db4900882dc265dd31351ea8970960811773",
-      "bytes": 7718
+      "sha256": "07a53ec9f1263808345fdf39b4bffcbaf2d89c8fe1717bbfe99b8ab74da9947f",
+      "bytes": 9103
     },
     {
       "path": "global.json",
@@ -81,88 +87,13 @@
       "bytes": 1061
     },
     {
-      "path": "licenses/Prefetch-MIT.txt",
-      "sha256": "dbf4a79e5fc96e1f5b51d33d24fba721af1e23e12c303f19cf73b1575e126228",
-      "bytes": 1071
-    },
-    {
-      "path": "licenses/Windows-Prefetch-Parser-notice.txt",
-      "sha256": "e4a8a79613bdd97927c00b1ecdd8631491428fe58d57a012f64971d858dba4a8",
-      "bytes": 549
-    },
-    {
-      "path": "licenses/oracle-0684b2349427ee28.txt",
-      "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
-      "bytes": 1617
-    },
-    {
-      "path": "licenses/oracle-0ef4dce1f4e8965f.txt",
-      "sha256": "0ef4dce1f4e8965f19a3b8b2f984f337d5c35e5aaf7f8a36b95aec66c301963a",
-      "bytes": 11591
-    },
-    {
-      "path": "licenses/oracle-10dffa4a31cee619.txt",
-      "sha256": "10dffa4a31cee619d723ba7f2f3942a129dd469cd7504e7407d6558db78e536f",
-      "bytes": 559
-    },
-    {
-      "path": "licenses/oracle-388c07f579998286.txt",
-      "sha256": "388c07f579998286e5df706a2e68bf6e01100187ccb0ff0310e26c3383f7b2b2",
-      "bytes": 18886
-    },
-    {
-      "path": "licenses/oracle-7864a01e2fdef7e8.txt",
-      "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
-      "bytes": 15835
-    },
-    {
-      "path": "licenses/oracle-78e22d4d24a710d2.txt",
-      "sha256": "78e22d4d24a710d2a09426c09060f3448204778ed506b1da55447a6089b54fae",
-      "bytes": 44279
-    },
-    {
-      "path": "licenses/oracle-AlphaFS-MIT.txt",
-      "sha256": "e287d1d1b79396d0ea9dca7c24e6a2ad5ae60f74a5af1c24fbc89a64333075b9",
-      "bytes": 1153
-    },
-    {
-      "path": "licenses/oracle-DeviceIOControlLib-MIT.txt",
-      "sha256": "936c3bc75630c609dcff2494de1a19e16eb2b3434ec975f6bfd830b45aa8bf2c",
-      "bytes": 1072
-    },
-    {
-      "path": "licenses/oracle-a6344bfb229bc08d.txt",
-      "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
-      "bytes": 46990
-    },
-    {
-      "path": "licenses/oracle-b7d43d08f5963712.txt",
-      "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
-      "bytes": 9323
-    },
-    {
-      "path": "licenses/oracle-d7a68596ab69b06f.txt",
-      "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
-      "bytes": 1139
-    },
-    {
-      "path": "licenses/oracle-f1db688d8481c91a.txt",
-      "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
-      "bytes": 9451
-    },
-    {
-      "path": "licenses/oracle-fd880d29a522f238.txt",
-      "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
-      "bytes": 1587
-    },
-    {
       "path": "oracle-packages.lock.json",
       "sha256": "fdaaaff8bb51d7aee19c42e31d763ca845f8f039c50fa0dc6fcab96f3e49105c",
       "bytes": 34952
     },
     {
       "path": "pyproject.toml",
-      "sha256": "54ea2b0134f699acc36b851df9ff5fffd669e749feb4b39cadc647132ed429ec",
+      "sha256": "d74e0d7af0918476a3e85972fb01d787c85d7a510a00fd495860f4a63f5d7b98",
       "bytes": 747
     },
     {
@@ -192,7 +123,7 @@
     },
     {
       "path": "src/prefetch_evidence_review/__init__.py",
-      "sha256": "1ed0e101752cbb539f6553e90afa5b3f7490711d90c62eaed8bfb3f823e8e54a",
+      "sha256": "c2d32de003a62fa96fc72b2e561902109a7f5a3807f4df1a52d252e238d635ee",
       "bytes": 133
     },
     {
