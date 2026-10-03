@@ -1,3 +1,4 @@
+include .gitattributes
 include 项目文档/LICENSE 项目文档/NOTICE 项目文档/README.md 项目文档/ORIGIN.md 项目文档/DEFENSIVE_SCOPE.md 项目文档/VALIDATION.md SOURCE_AUDIT.json ORACLE_DEPENDENCIES.json ORACLE_AUDIT.json oracle-packages.lock.json requirements-dev.txt global.json .gitignore
 recursive-include licenses *.txt
 recursive-include src *.py py.typed
