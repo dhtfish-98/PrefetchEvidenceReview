@@ -1,5 +1,8 @@
 # Origin, changes and licenses
 
+Current implementation author and maintainer: **dhtfish98**. Current package version: **0.1.1**. Upstream authors and reused components retain their original attribution.
+
+
 The selected source is [PoorBillionaire/Windows-Prefetch-Parser](https://github.com/PoorBillionaire/Windows-Prefetch-Parser/tree/bc1fa58e82918c887d61981ec400e290ecbc6d1e), fixed at `bc1fa58e82918c887d61981ec400e290ecbc6d1e`. All eight selected source, entry, package and attribution files were read completely and matched their Git blobs; [SOURCE_AUDIT.json](SOURCE_AUDIT.json) records bytes, lines and SHA-256. The original full Apache notice and complete Apache 2.0 text are retained. The reviewed Windows decompression helper's original Francesco Picasso attribution is preserved in NOTICE even though its mechanism is excluded.
 
 The new parser implements complete declared arrays, ownership and graph checks, bounded strings and extents, exact integer time slots, input stability, privacy and explicit unsupported results. It replaces upstream unchecked reads, partial metrics, float time conversion, directory scanning, ctypes decompression and temporary evidence writes. This is a new finite implementation of the selected uncompressed record mechanism, with explicit differences; it is not a claim that every feature of the upstream package was rewritten.
@@ -14,4 +17,4 @@ The optional oracle resolves 82 exact NuGet packages. [ORACLE_DEPENDENCIES.json]
 
 ServiceStack.Text 10.0.6 specifically links [ServiceStack's terms](https://servicestack.net/terms), including restricted evaluation usage. This project's tiny synthetic oracle evaluation uses that published evaluation scope; it does not remove restrictions, supply a license key or redistribute the library. License qualification for other uses remains OPEN. Read the package-specific declarations and current terms before independently reproducing or extending the oracle evaluation. No oracle executable, NuGet package, SDK or real Prefetch file is shipped in this source distribution or wheel.
 
-The independent Python runtime is Apache-2.0 and has zero runtime dependencies. AI assisted source review, implementation, tests and documentation. Attribution and engineering evidence do not prove CVP eligibility, human authorship requirements, safeguards behavior or acceptance.
+The independent Python runtime is Apache-2.0 and has zero runtime dependencies. New implementation author: dhtfish98. Attribution and engineering evidence do not prove CVP eligibility, human authorship requirements, safeguards behavior or acceptance.

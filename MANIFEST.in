@@ -9,3 +9,5 @@ prune dist
 prune build
 global-exclude *.pyc
 global-exclude __pycache__
+
+include SOURCE_MANIFEST.json ATTRIBUTION_UPDATE.json

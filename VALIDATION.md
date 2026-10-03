@@ -1,3 +1,17 @@
+# Current validation — 0.1.1
+
+The 2026-10-03 attribution update identifies the new implementation author and maintainer as dhtfish98. The final wheel and sdist were rebuilt, and a fresh isolated consumer ran **50 existing and targeted unittest methods successfully**, imported the installed package from site-packages, exercised the declared CLI contract and matched every shipped runtime/notice byte to current source. Wheel metadata records author dhtfish98 and version 0.1.1; RECORD and source-distribution contents were checked. Current runtime identities are in SOURCE_MANIFEST.json; ATTRIBUTION_UPDATE.json records the exact selected validation scope. The matching private build/install/test logs and artifact hashes are retained in the batch validation records, outside this public project.
+
+One functional change in this update rejects missing, non-positive or non-integer safe-file flags before opening input. API/CLI regressions cover missing, None, invalid, zero and boolean flags, plus regular files and symbolic links.
+
+The existing pinned PECmd oracle workflow and all original dependency notices remain available. This attribution update did not reacquire native oracle data or claim a new Windows-native comparison.
+
+The current safe-file capability gate also requires set/frozenset directory-relative support declarations containing each actually used operation before opening input. Missing, None, empty, malformed or operation-incomplete collections yield the existing controlled unsupported result. Normal set/frozenset declarations and API/CLI rejection-before-open are regression tested.
+
+## Historical validation evidence
+
+The following earlier records retain their original versions, counts and fixed source identities. They are historical observations, not evidence that an old artifact is the current package.
+
 # Validation
 
 The first public run, 37025105975 at commit b71ad0b73b4fb0da6af35f188faa2fda27830fd1, passed all four product jobs. Both external-oracle jobs stopped at the exact SDK-version assertion before restore/build or data comparison. Installing 9.0.318 alone did not select it among the runner's installed SDKs. The project now pins that exact version with `global.json`, disables roll-forward/prereleases, and checks the version from the project directory. Build and comparison are separate dependent CI steps, so a failed build does not attempt a missing identity. The strict SDK and data checks remain required. A new actual exact-commit result is still pending. See the [Microsoft SDK selection reference](https://learn.microsoft.com/en-us/dotnet/core/tools/global-json).

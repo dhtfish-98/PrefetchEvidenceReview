@@ -1,0 +1,249 @@
+{
+  "schema": 1,
+  "project": "PrefetchEvidenceReview",
+  "version": "0.1.1",
+  "implementation_author": "dhtfish98",
+  "self_excluded_to_avoid_recursive_hash": true,
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "fdade98c56301e797fa016b1ebf0fa5206a51ea8485e09297ec1f844d4c1e654",
+      "bytes": 2560
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "7b77d867cf1fcb5b8b6952e6a6aa7b8e72c7e7a79ca5e202d8159f85a3d5a70f",
+      "bytes": 97
+    },
+    {
+      "path": "ATTRIBUTION_UPDATE.json",
+      "sha256": "7d6a3dc716ec7e6388cbb11c3606e694eb9135e4c29d568c26d9cf881fa0cfc7",
+      "bytes": 941
+    },
+    {
+      "path": "DEFENSIVE_SCOPE.md",
+      "sha256": "7083822560ba93c83cc15b6fc6c5436dab567ef8c4028b1b5d30a34dc50a9ca1",
+      "bytes": 3145
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "bytes": 11358
+    },
+    {
+      "path": "MANIFEST.in",
+      "sha256": "e51900de939971252ec9431503e90e3c4a02e2b5b9f5b8a11aa1a6885166a30d",
+      "bytes": 516
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "f51c17b4ad9524511e5d8d400bd8838746b0c99a73a37a7148b675e889fe7bac",
+      "bytes": 1153
+    },
+    {
+      "path": "ORACLE_AUDIT.json",
+      "sha256": "4ec1d7a6d54c7c621531bb8a7627c5c12c278cf56787b92ce8b8c6a3bcd8d07b",
+      "bytes": 7659
+    },
+    {
+      "path": "ORACLE_DEPENDENCIES.json",
+      "sha256": "ea0ed86df5743efe72cf6a569dc548b79eb2cc17db97b382eb3c890f9576ab00",
+      "bytes": 107622
+    },
+    {
+      "path": "ORIGIN.md",
+      "sha256": "a6bc33930ca6eceb91608ad9a5c8aee502e5492163b3be0606949e2877227547",
+      "bytes": 5176
+    },
+    {
+      "path": "README.md",
+      "sha256": "8e0d801f174469ba28945accea099e63044e24419ea85266b04a2e9e950b581f",
+      "bytes": 3706
+    },
+    {
+      "path": "SOURCE_AUDIT.json",
+      "sha256": "cd45e1f9cae7b7c8b6d3158d496c59c172562dcdd9552a30cce2d5afd2007aeb",
+      "bytes": 2503
+    },
+    {
+      "path": "VALIDATION.md",
+      "sha256": "eddb931eb5c04f22baf1b316ccb4db4900882dc265dd31351ea8970960811773",
+      "bytes": 7718
+    },
+    {
+      "path": "global.json",
+      "sha256": "5fd3e214333fc566f55e25fccbe48626b9b3218cda9a8bbfcfd6cb7f1c48c437",
+      "bytes": 104
+    },
+    {
+      "path": "licenses/PECmd-MIT.txt",
+      "sha256": "0d0e3ae2a1554c3bf884100d71c5c7273d34e084327d6cbcdc51cf6a609d92d5",
+      "bytes": 1061
+    },
+    {
+      "path": "licenses/Prefetch-MIT.txt",
+      "sha256": "dbf4a79e5fc96e1f5b51d33d24fba721af1e23e12c303f19cf73b1575e126228",
+      "bytes": 1071
+    },
+    {
+      "path": "licenses/Windows-Prefetch-Parser-notice.txt",
+      "sha256": "e4a8a79613bdd97927c00b1ecdd8631491428fe58d57a012f64971d858dba4a8",
+      "bytes": 549
+    },
+    {
+      "path": "licenses/oracle-0684b2349427ee28.txt",
+      "sha256": "0684b2349427ee28e392ae8914645832e59731dba8a38a984f72b3fb8769c76b",
+      "bytes": 1617
+    },
+    {
+      "path": "licenses/oracle-0ef4dce1f4e8965f.txt",
+      "sha256": "0ef4dce1f4e8965f19a3b8b2f984f337d5c35e5aaf7f8a36b95aec66c301963a",
+      "bytes": 11591
+    },
+    {
+      "path": "licenses/oracle-10dffa4a31cee619.txt",
+      "sha256": "10dffa4a31cee619d723ba7f2f3942a129dd469cd7504e7407d6558db78e536f",
+      "bytes": 559
+    },
+    {
+      "path": "licenses/oracle-388c07f579998286.txt",
+      "sha256": "388c07f579998286e5df706a2e68bf6e01100187ccb0ff0310e26c3383f7b2b2",
+      "bytes": 18886
+    },
+    {
+      "path": "licenses/oracle-7864a01e2fdef7e8.txt",
+      "sha256": "7864a01e2fdef7e8fdf81b906efb1466f083206affea7ba7e6dadea429754765",
+      "bytes": 15835
+    },
+    {
+      "path": "licenses/oracle-78e22d4d24a710d2.txt",
+      "sha256": "78e22d4d24a710d2a09426c09060f3448204778ed506b1da55447a6089b54fae",
+      "bytes": 44279
+    },
+    {
+      "path": "licenses/oracle-AlphaFS-MIT.txt",
+      "sha256": "e287d1d1b79396d0ea9dca7c24e6a2ad5ae60f74a5af1c24fbc89a64333075b9",
+      "bytes": 1153
+    },
+    {
+      "path": "licenses/oracle-DeviceIOControlLib-MIT.txt",
+      "sha256": "936c3bc75630c609dcff2494de1a19e16eb2b3434ec975f6bfd830b45aa8bf2c",
+      "bytes": 1072
+    },
+    {
+      "path": "licenses/oracle-a6344bfb229bc08d.txt",
+      "sha256": "a6344bfb229bc08d1071cec400eea216e307439f961c5943ec1b56d2245acb95",
+      "bytes": 46990
+    },
+    {
+      "path": "licenses/oracle-b7d43d08f5963712.txt",
+      "sha256": "b7d43d08f59637129c482c63dcd4811077101ac41cc763b3b58490137f741977",
+      "bytes": 9323
+    },
+    {
+      "path": "licenses/oracle-d7a68596ab69b06f.txt",
+      "sha256": "d7a68596ab69b06f51ca278a6545148e4269a9381c26d597c13df5d88e08cf5b",
+      "bytes": 1139
+    },
+    {
+      "path": "licenses/oracle-f1db688d8481c91a.txt",
+      "sha256": "f1db688d8481c91a452fabcea5060a23da9ea5088329b58c478a040e2e426297",
+      "bytes": 9451
+    },
+    {
+      "path": "licenses/oracle-fd880d29a522f238.txt",
+      "sha256": "fd880d29a522f238c178452b38cbf196bb5c0dab7ebfdc590b02b8e5019ebc71",
+      "bytes": 1587
+    },
+    {
+      "path": "oracle-packages.lock.json",
+      "sha256": "fdaaaff8bb51d7aee19c42e31d763ca845f8f039c50fa0dc6fcab96f3e49105c",
+      "bytes": 34952
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "54ea2b0134f699acc36b851df9ff5fffd669e749feb4b39cadc647132ed429ec",
+      "bytes": 747
+    },
+    {
+      "path": "requirements-dev.txt",
+      "sha256": "8bf0543e181a4e53135e4ea8dcb0acdd22a116c5c250b6ccf82cc036cfd805cd",
+      "bytes": 99
+    },
+    {
+      "path": "scripts/build_pecmd_oracle.py",
+      "sha256": "3644ab9947a1a6d9ca4aeec5fe692893f738251ce32849d3cf4d8d1b28115c7f",
+      "bytes": 9425
+    },
+    {
+      "path": "scripts/installed_cli_check.py",
+      "sha256": "f21733606c901efd3b326a88176e296a3313b8e35ff579f7a848beb7efc01af3",
+      "bytes": 2431
+    },
+    {
+      "path": "scripts/pecmd_differential.py",
+      "sha256": "7deeb4b67d2f756046a22988229210365e81d66ab711a21f91fe7cc3bac1e3e7",
+      "bytes": 8062
+    },
+    {
+      "path": "scripts/verify_package.py",
+      "sha256": "8b0447bc7011aa03c024e4c04655ce4567be9bdac25fa18720ac837dab9f17dd",
+      "bytes": 6276
+    },
+    {
+      "path": "src/prefetch_evidence_review/__init__.py",
+      "sha256": "1ed0e101752cbb539f6553e90afa5b3f7490711d90c62eaed8bfb3f823e8e54a",
+      "bytes": 133
+    },
+    {
+      "path": "src/prefetch_evidence_review/__main__.py",
+      "sha256": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+      "bytes": 48
+    },
+    {
+      "path": "src/prefetch_evidence_review/cli.py",
+      "sha256": "ba634fb01a124cc190f9aa29697cea2922a005e3f0dbeb7b505ff0c9263b3b6f",
+      "bytes": 1005
+    },
+    {
+      "path": "src/prefetch_evidence_review/files.py",
+      "sha256": "04ec3899d866f17dcc095481caab340845c2b6efaeed993b982721cd6dd02cfb",
+      "bytes": 2806
+    },
+    {
+      "path": "src/prefetch_evidence_review/model.py",
+      "sha256": "2f37e0f3edef69193bb9c39bf5e80f0573b64f70929238805a8c3224e317c381",
+      "bytes": 1601
+    },
+    {
+      "path": "src/prefetch_evidence_review/parser.py",
+      "sha256": "2d06a12074e0c38db8d9ffcca2c299177993be77aa6e0987a74c4823d28aa60f",
+      "bytes": 19995
+    },
+    {
+      "path": "src/prefetch_evidence_review/py.typed",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "tests/fixtures.py",
+      "sha256": "5aa6bd80d9af493eae2b9b1b82a3439b6b8b2a5b2c9181a8e42a80bdda632f8d",
+      "bytes": 4937
+    },
+    {
+      "path": "tests/test_io.py",
+      "sha256": "809ce75274b5e511367b961835ebd00893251f62a3c56ac1f9de4d2e0236f6c9",
+      "bytes": 7426
+    },
+    {
+      "path": "tests/test_parser.py",
+      "sha256": "dc2cf42e7f1e26e1b52678b04267cc1163355b3868998d4421bceb34fd578a4d",
+      "bytes": 17969
+    },
+    {
+      "path": "tests/test_safe_read_capabilities.py",
+      "sha256": "deec20dd2a929432d19e06151965a1c685ecba1a0aac5f1338183f5851902ab8",
+      "bytes": 6312
+    }
+  ]
+}

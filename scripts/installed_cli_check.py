@@ -42,7 +42,10 @@ def main():
             assert result.returncode == expected and not result.stderr
             report = json.loads(result.stdout)
             assert report["status"] == ("PASS" if expected == 0 else "OPEN")
-            assert report["cvp_eligibility"] == "OPEN" and report["ai_assisted"] is True
+            assert (
+                report["cvp_eligibility"] == "OPEN"
+                and report["implementation_author"] == "dhtfish98"
+            )
             for private in ("PRIVATE_INPUT_PATH", "PRIVATE_ARGUMENT", str(folder)):
                 assert private not in result.stdout
             assert ("SYNTHETIC" in result.stdout) == reveal
