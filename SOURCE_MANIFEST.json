@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "project": "PrefetchEvidenceReview",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "implementation_author": "dhtfish98",
   "self_excluded_to_avoid_recursive_hash": true,
   "current_validation": "项目文档/LICENSE_CLEANUP.json",
@@ -13,7 +13,7 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "sha256": "bfe8f2119972995b5f113c73d4bf6f28277a5af4cf5b6a6bfec80178a858987a",
+      "sha256": "7ac4ea97312856077f47728ff8ca0e2e601366577dc6e6a06729bda08e2bd834",
       "bytes": 5377
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "path": "pyproject.toml",
-      "sha256": "c6ce05feb663981b508ecb3d71da54d55080d2c82601802acdb2130c37cc4b3f",
+      "sha256": "3ef88ddf4e01c4a07dcd74a4640e3b3b678ca4db899bb31ac36f2ec7c1f65847",
       "bytes": 799
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "path": "src/prefetch_evidence_review/__init__.py",
-      "sha256": "c2d32de003a62fa96fc72b2e561902109a7f5a3807f4df1a52d252e238d635ee",
+      "sha256": "b9fd33b5469943f926f1f00b4d36b11764fa0ad832240cb8df53fc8e59938324",
       "bytes": 133
     },
     {
@@ -147,7 +147,7 @@
       "path": "构建.py"
     },
     {
-      "sha256": "b1c8c037b71be96aea77ed8ae53bdf33a280d11938bd936af1e4e409da9779ae",
+      "sha256": "9ec7a289473619ed4a03e4570343d35148fb1b201d59966ca868d82ce289c9f5",
       "bytes": 1663,
       "path": "构建配置.json"
     },
@@ -173,18 +173,18 @@
     },
     {
       "path": "项目文档/ORIGIN.md",
-      "sha256": "cd6c2b75e64bad80322fdfe970503ba8b07e15f9f8f164dbff8419b8d529a42b",
+      "sha256": "a918fbbbb71bc920c3e978b46a2108a0445e6a9e3edf11f4386cfd6216aa0081",
       "bytes": 5508
     },
     {
       "path": "项目文档/README.md",
-      "sha256": "360a1db4abe535f3499f091f2b88b1b85caf2f851bdd144ed799701c07e2b9f4",
+      "sha256": "55fe1fa944e8962ca9155ed4c3ef4dc42c7482b9fbc879516b0fff8edec76963",
       "bytes": 4067
     },
     {
       "path": "项目文档/VALIDATION.md",
-      "sha256": "07a53ec9f1263808345fdf39b4bffcbaf2d89c8fe1717bbfe99b8ab74da9947f",
-      "bytes": 9103
+      "sha256": "94b483bbdbbea876891fcbbd3202f989739e243be87435616451d048b0b77e68",
+      "bytes": 9686
     },
     {
       "path": "项目文档/licenses/PECmd-MIT.txt",

@@ -2,7 +2,7 @@
 
 # PrefetchEvidenceReview
 
-Current implementation author and maintainer: **dhtfish98**. Current package version: **0.1.2**. Upstream authors and reused components retain their original attribution.
+Current implementation author and maintainer: **dhtfish98**. Current package version: **0.1.3**. Upstream authors and reused components retain their original attribution.
 
 
 PrefetchEvidenceReview reads bounded, uncompressed Windows Prefetch v17, v23 and v26 records offline. It reviews the complete declared metrics, trace arrays, UTF-16 filename strings, volume entries, file references, directory strings, run counter and recorded FILETIME slots. No recorded path is opened and no target program is executed.

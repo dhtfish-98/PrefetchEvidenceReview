@@ -49,7 +49,7 @@ jobs:
       - name: Fresh independent wheel consumer and installed CLI
         run: |
           python -m venv validation-local/consumer
-          validation-local/consumer/bin/python -m pip install --no-index --no-deps dist/prefetch_evidence_review-0.1.2-py3-none-any.whl
+          validation-local/consumer/bin/python -m pip install --no-index --no-deps dist/prefetch_evidence_review-0.1.3-py3-none-any.whl
           validation-local/consumer/bin/python -m pip check
           consumer_python="$PWD/validation-local/consumer/bin/python"
           repo_root="$PWD"

@@ -1,6 +1,6 @@
 # Origin, changes and licenses
 
-Current implementation author and maintainer: **dhtfish98**. Current package version: **0.1.2**. Upstream authors and reused components retain their original attribution.
+Current implementation author and maintainer: **dhtfish98**. Current package version: **0.1.3**. Upstream authors and reused components retain their original attribution.
 
 
 The selected source is [PoorBillionaire/Windows-Prefetch-Parser](https://github.com/PoorBillionaire/Windows-Prefetch-Parser/tree/bc1fa58e82918c887d61981ec400e290ecbc6d1e), fixed at `bc1fa58e82918c887d61981ec400e290ecbc6d1e`. All eight selected source, entry, package and attribution files were read completely and matched their Git blobs; [SOURCE_AUDIT.json](SOURCE_AUDIT.json) records bytes, lines and SHA-256. The original parser and Windows decompression helper are reference mechanisms, not bundled code. Their unused notice copy is omitted. The root Apache 2.0 LICENSE applies to the independent new runtime.
